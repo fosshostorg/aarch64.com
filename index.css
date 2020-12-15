@@ -15,12 +15,15 @@ body {
 }
 
 h1 {
+  font-size: 2rem;
   font-size: max(2rem, 3vw);
 }
 
 p {
+  width: 50%;
   width: max(300px, 50%);
   margin: 3vw auto;
+  font-size: 1rem;
   font-size: max(1rem, 1.15vw);
 }
 
