@@ -1,4 +1,5 @@
 import styles from "@/styles/HomePage/RecentPosts.module.scss";
+import LinkButton from "../common/LinkButton";
 
 const RecentPosts = () => (
   <div className={styles.recentPosts}>
@@ -46,6 +47,7 @@ const RecentPosts = () => (
         </div>
       </div>
     </div>
+    <LinkButton href="/blog">See All Posts</LinkButton>
   </div>
 );
 
