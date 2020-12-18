@@ -7,7 +7,7 @@ const Hero = () => (
     <div className={styles.left}>
       <h1>Our journey of ARMing the open source community</h1>
       <p>
-        Daily blog ran by experts about the challenges of planning, coordinating
+        Daily blog run by experts about the challenges of planning, coordinating
         and managing 50u of ARM hardware in multiple, global locations.
       </p>
       <LinkButton href="/blog">Read The Blog</LinkButton>
