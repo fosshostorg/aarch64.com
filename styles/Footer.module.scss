@@ -11,15 +11,6 @@
     h2 {
       margin-top: 0;
     }
-
-    p {
-      margin: 0.75rem 0;
-    }
-
-    img {
-      filter: invert(1);
-      display: none;
-    }
   }
 
   .right {
@@ -48,11 +39,7 @@
 
     .left {
       max-width: 40%;
-      margin-right: 4rem;
-
-      img {
-        display: block;
-      }
+      margin-right: 10rem;
     }
 
     .right h3 {
