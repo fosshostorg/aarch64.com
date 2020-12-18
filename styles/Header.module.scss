@@ -29,12 +29,12 @@
         padding: 1rem;
         text-align: center;
         font-size: 1.1rem;
-        border-top: 1px solid #2c2c2c;
+        border-top: 1px solid rgba(44, 44, 44, 0.6);
         transition: background 0.15s;
         background: #fff;
 
         &:last-child {
-          border-bottom: 1px solid #2c2c2c;
+          border-bottom: 1px solid rgba(44, 44, 44, 0.6);
         }
         &:hover {
           background: #2c2c2c;
