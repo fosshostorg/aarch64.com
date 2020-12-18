@@ -3,9 +3,9 @@ import NavBar from "@/components/common/NavBar";
 
 const Header = () => (
   <header className={styles.header}>
-    <div className={styles.logo}>
+    <a href="/" className={styles.logo}>
       <img src="/logo.png" alt="ARM-64.com Logo" />
-    </div>
+    </a>
     <NavBar />
   </header>
 );
