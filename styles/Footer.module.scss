@@ -11,6 +11,11 @@
     h2 {
       margin-top: 0;
     }
+
+    img {
+      filter: invert(1);
+      display: none;
+    }
   }
 
   .right {
@@ -39,7 +44,13 @@
 
     .left {
       max-width: 40%;
-      margin-right: 10rem;
+      margin-right: 4rem;
+
+      img {
+        display: block;
+        width: 50%;
+        margin: 1rem 0 0;
+      }
     }
 
     .right h3 {
