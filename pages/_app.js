@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }) {
         <title>ARM-64.com</title>
         <meta
           name="description"
-          content="Blog ran by experts about the challenges of planning, coordinating and managing 50u of ARM hardware in multiple, global locations."
+          content="Daily blog run by experts about the challenges of planning, coordinating and managing 50u of ARM hardware in multiple, global locations."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
