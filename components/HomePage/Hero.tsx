@@ -1,5 +1,5 @@
 import Image from "@/components/HomePage/HeroImage";
-import styles from "@/styles/Hero.module.scss";
+import styles from "@/styles/HomePage/Hero.module.scss";
 import LinkButton from "../common/LinkButton";
 
 const Hero = () => (
