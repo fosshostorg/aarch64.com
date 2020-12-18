@@ -5,6 +5,7 @@ const RecentPosts = () => (
     <h3>RECENT POSTS</h3>
     <div className={styles.posts}>
       <div className={styles.post}>
+        <div className={styles.overlay}></div>
         <h1>
           This is a title for a blog post that spans multiple lines, who knows
           how many.
@@ -20,6 +21,7 @@ const RecentPosts = () => (
       </div>
       <div className={styles.others}>
         <div className={styles.post}>
+          <div className={styles.overlay}></div>
           <h1>This title is a little bit smaller.</h1>
           <div className={styles.meta}>
             <div className={styles.avatar}>
@@ -31,6 +33,7 @@ const RecentPosts = () => (
           </div>
         </div>
         <div className={styles.post}>
+          <div className={styles.overlay}></div>
           <h1>Very small title.</h1>
           <div className={styles.meta}>
             <div className={styles.avatar}>
