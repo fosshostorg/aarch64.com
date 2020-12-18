@@ -35,7 +35,6 @@ const About = () => (
         Communications, and Packetframe. Further details of sponsorships can be
         found on our sponsorship page.
       </p>
-      <p>We are unaffiliated with Arm, or Ampere Computing.</p>
       <h2>Our History</h2>
       <p>
         Our Founder, Thomas Markey was introduced to Peter Pouliot, Senior
