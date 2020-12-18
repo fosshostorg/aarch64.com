@@ -6,18 +6,18 @@ import styles from "@/styles/AboutPage.module.scss";
 const About = () => (
   <>
     <Head>
-      <title>About Us | ARM-64.com</title>
+      <title>About Us | Arm-64.com</title>
     </Head>
     <Header />
     <div className={styles.about}>
-      <h1>About ARM-64.com</h1>
+      <h1>About Arm-64.com</h1>
       <p>
-        ARM-64.com is a blog operated by fosshost.org, a non-profit hosting
+        Arm-64.com is a blog operated by fosshost.org, a non-profit hosting
         provider that supports hundreds of open source projects with
-        cloud-computing services. ARM-64.com is here to track the development
-        and build progress of the Fosshost ARM-64 build project. We will provide
+        cloud-computing services. Arm-64.com is here to track the development
+        and build progress of the Fosshost Arm-64 build project. We will provide
         daily updates on our journey that intends to be both informative and
-        practical and provide an insight into the ARM world.
+        practical and provide an insight into the Arm world.
       </p>
       <p>
         Our philosophy is to go further, together, providing projects with a
@@ -25,7 +25,7 @@ const About = () => (
       </p>
       <p>
         We work with industry leaders and influential organizations and
-        individuals who promote the ARM ecosystem and provide an exclusive
+        individuals who promote the Arm ecosystem and provide an exclusive
         service to the open source software ecosystem. What will you build, test
         or optimize on Arm?
       </p>
@@ -35,7 +35,7 @@ const About = () => (
         Communications, and Packetframe. Further details of sponsorships can be
         found on our sponsorship page.
       </p>
-      <p>We are unaffiliated with ARM, or Ampere Computing.</p>
+      <p>We are unaffiliated with Arm, or Ampere Computing.</p>
       <h2>Our History</h2>
       <p>
         Our Founder, Thomas Markey was introduced to Peter Pouliot, Senior
