@@ -1,0 +1,32 @@
+.sponsors {
+  padding: 1.5rem;
+
+  h3 {
+    color: #989898;
+  }
+
+  .list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2.5rem;
+    margin: 2rem 0;
+
+    img {
+      height: 3rem;
+      transition: filter 0.15s;
+      filter: grayscale(1);
+
+      &:hover {
+        filter: grayscale(0);
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .sponsors {
+    padding: 2.5rem 4rem;
+  }
+}
