@@ -8,6 +8,7 @@
   .logo {
     height: 3.25rem;
 
+    object,
     img {
       height: 100%;
     }
@@ -50,6 +51,7 @@
       left: 0;
       width: 100%;
       margin-top: 2rem;
+      z-index: 2;
     }
   }
 }

@@ -12,7 +12,7 @@
       margin-top: 0;
     }
 
-    img {
+    object {
       filter: invert(1);
       display: none;
     }
@@ -46,10 +46,10 @@
       max-width: 40%;
       margin-right: 4rem;
 
-      img {
+      object {
         display: block;
-        width: 50%;
-        margin: 1rem 0 0;
+        width: 40%;
+        margin: 2rem 0 0;
       }
     }
 
