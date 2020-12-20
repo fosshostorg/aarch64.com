@@ -10,8 +10,12 @@
     flex-flow: row wrap;
     justify-content: center;
     align-items: center;
-    gap: 2.5rem;
     margin: 2rem 0;
+
+    a:not(:last-child) {
+      margin-right: 2rem;
+      margin-bottom: 2rem;
+    }
 
     img {
       height: 3rem;
@@ -28,5 +32,9 @@
 @media screen and (min-width: 768px) {
   .sponsors {
     padding: 2.5rem 7rem;
+
+    .list a:not(:last-child) {
+      margin-right: 3rem;
+    }
   }
 }
