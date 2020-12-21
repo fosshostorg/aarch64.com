@@ -2,27 +2,27 @@
   display: flex;
   flex-flow: row nowrap;
   padding: 1.5rem;
+}
 
-  .left {
-    display: flex;
-    flex-flow: column nowrap;
+.left {
+  display: flex;
+  flex-flow: column nowrap;
 
-    h1 {
-      font-size: 2.25rem;
-      margin: 0 0 1rem;
-    }
-
-    p {
-      font-size: 1.1rem;
-      margin: 0 0 1.5rem;
-      line-height: 1.4;
-    }
+  h1 {
+    font-size: 2.25rem;
+    margin: 0 0 1rem;
   }
 
-  .right {
-    svg {
-      display: none;
-    }
+  p {
+    font-size: 1.1rem;
+    margin: 0 0 1.5rem;
+    line-height: 1.4;
+  }
+}
+
+.right {
+  svg {
+    display: none;
   }
 }
 
@@ -31,30 +31,30 @@
     padding: 2.5rem 7rem;
     align-items: center;
     justify-content: space-between;
+  }
 
-    .left {
-      max-width: 55%;
+  .left {
+    max-width: 55%;
 
-      h1 {
-        font-size: 3.15rem;
-        margin: 0 0 2rem;
-      }
-
-      p {
-        font-size: 1.15rem;
-        margin: 0 0 2rem;
-        max-width: 85%;
-      }
+    h1 {
+      font-size: 3.15rem;
+      margin: 0 0 2rem;
     }
 
-    .right {
-      width: 30%;
+    p {
+      font-size: 1.15rem;
+      margin: 0 0 2rem;
+      max-width: 85%;
+    }
+  }
 
-      svg {
-        width: 100%;
-        display: block;
-        height: min-content;
-      }
+  .right {
+    width: 30%;
+
+    svg {
+      width: 100%;
+      display: block;
+      height: min-content;
     }
   }
 }
