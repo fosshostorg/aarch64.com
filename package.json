@@ -10,9 +10,12 @@
     "deploy": "npm run build && npm run export"
   },
   "dependencies": {
+    "gray-matter": "^4.0.2",
     "next": "10.0.3",
+    "raw-loader": "^4.0.2",
     "react": "17.0.1",
     "react-dom": "17.0.1",
+    "react-markdown": "^5.0.3",
     "sass": "^1.30.0"
   },
   "devDependencies": {
