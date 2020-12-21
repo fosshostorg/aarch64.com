@@ -36,8 +36,6 @@ export const getStaticProps = async (context) => {
 
   let results = paginatedResults(page);
 
-  console.log(results);
-
   return {
     props: {
       results,
@@ -49,7 +47,13 @@ export const getStaticProps = async (context) => {
 export const getStaticPaths = async (context) => {
   const LIMIT = 4;
   const posts = fs.readdirSync("posts");
-  const paths = [...Array(Math.round(posts.length / LIMIT))]
+  const paths = [
+    ...Array(
+      Math.round(posts.length / LIMIT) !== 0
+        ? Math.round(posts.length / LIMIT)
+        : 1
+    ),
+  ]
     .map((k, i) => i + 1)
     .map((i) => `/blog/${i}`);
   return {
