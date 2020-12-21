@@ -14,9 +14,13 @@ const Sponsors = () => (
       <h1>Our Sponsors</h1>
       <div className={styles.list}>
         {sponsors.map((sponsor) => (
-          <div className={styles.sponsor}>
+          <div className={styles.sponsor} id={sponsor.id} key={sponsor.id}>
             <div className={styles.logo}>
-              <img src={`/sponsors/${sponsor.img}`} alt={sponsor.name} />
+              <img
+                src={`/sponsors/${sponsor.img}`}
+                alt={sponsor.name}
+                className={styles[`${sponsor.id}`]}
+              />
             </div>
             <div className={styles.info}>
               <a href={sponsor.link} target="_blank" rel="noreferrer noopener">
