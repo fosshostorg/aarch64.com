@@ -60,13 +60,21 @@ const Post = ({ frontmatter, markdownBody, shareUrl }) => (
         </div>
         <div className={styles.main}>
           <h1>{frontmatter.title}</h1>
+          <div className={styles.date}>
+            {new Date(frontmatter.date).toLocaleString("en-US", {
+              month: "long",
+              day: "numeric",
+              year: "numeric",
+              hour12: true,
+              hour: "numeric",
+              minute: "numeric",
+            })}
+          </div>
           <div className={styles.meta}>
             <div className={styles.avatar}>
               <img src={frontmatter.authorImg} alt="Photo of the Author" />
             </div>
             <div className={styles.author}>{frontmatter.author}</div>
-            <div className={styles.separator}>·</div>
-            <div className={styles.date}>{frontmatter.date}</div>
           </div>
           <div className={styles.body}>
             <ReactMarkdown source={markdownBody} />
@@ -81,7 +89,7 @@ const Post = ({ frontmatter, markdownBody, shareUrl }) => (
 export const getStaticProps = async (context) => {
   const { slug } = context.params;
 
-  const content = await import(`../../posts/${slug}.md`);
+  const content = await import(`posts/${slug}.md`);
 
   const data = matter(content.default);
   data.data.authorImg = `/avatars/${data.data.author
