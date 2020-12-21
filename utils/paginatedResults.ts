@@ -32,7 +32,7 @@ const paginatedResults = (page) => {
   let pages = [...Array(Math.round(posts.length / LIMIT))].map((k, i) => i + 1);
   let prev = pages.indexOf(page - 1) !== -1 ? page - 1 : null;
   let next = pages.indexOf(page + 1) !== -1 ? page + 1 : null;
-  let last = pages[pages.length - 1];
+  let last = pages[pages.length - 1] ? pages[page.length - 1] : 1;
 
   const startIndex = (page - 1) * LIMIT;
   const endIndex = page * LIMIT;
