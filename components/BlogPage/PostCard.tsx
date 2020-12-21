@@ -6,10 +6,13 @@ const PostCard = ({ post }) => (
     <a href={`/post/${post.slug}`} className={styles.post}>
       <div className={styles.thumbnail}>
         <div className={styles.overlay} />
-        <img
-          src={`/thumbnails/${post.thumbnail}`}
-          alt={`Thumbnail for ${post.title}`}
-        />
+        {post.thumbnail && (
+          <img
+            src={`/thumbnails/${post.thumbnail}`}
+            alt={`Thumbnail for ${post.title}`}
+          />
+        )}
+        {!post.thumbnail && <div className={styles.thumbColor}></div>}
       </div>
       <div className={styles.info}>
         <div className={styles.date}>{post.date}</div>
