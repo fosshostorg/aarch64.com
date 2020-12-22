@@ -11,22 +11,59 @@
 .left {
   h2 {
     margin-top: 0;
+
+    a {
+      text-decoration: underline;
+
+      &:hover {
+        text-decoration: none;
+      }
+    }
   }
 
-  object {
-    filter: invert(1);
-    display: none;
+  img {
+    max-width: 10rem;
+    margin: 1rem 0;
   }
 }
 
 .right {
   display: flex;
   align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.social {
+  display: flex;
+
+  a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #272727;
+    fill: #fff;
+    padding: 0.5rem;
+
+    &:hover {
+      background: #181818;
+    }
+
+    svg {
+      width: 1.5rem;
+      height: 1.5rem;
+    }
+  }
 }
 
 .links {
   display: flex;
   flex-flow: column;
+
+  h3 {
+    margin-top: 0;
+  }
 
   a:hover {
     text-decoration: underline;
@@ -46,12 +83,10 @@
   .left {
     max-width: 40%;
     margin-right: 4rem;
+  }
 
-    object {
-      display: block;
-      width: 40%;
-      margin: 2rem 0 0;
-    }
+  .right {
+    margin-top: 0;
   }
 
   .right h3 {

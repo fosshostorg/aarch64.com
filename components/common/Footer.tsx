@@ -1,17 +1,20 @@
 import styles from "@/styles/Footer.module.scss";
 import Link from "next/link";
+import TwitterIcon from "../icons/Twitter";
 
 const Footer = () => (
   <footer className={styles.footer}>
     <div className={styles.left}>
-      <h2>Made by Fosshost.</h2>
+      <h2>
+        Made by <a href="https://fosshost.org">Fosshost</a>.
+      </h2>
       <p>
         We are not affiliated with Arm Holdings or any of it’s subsidiaries. We
         are a Fosshost project.
       </p>
-      <object data="/logo.svg" type="image/svg+xml">
-        <img src="/logo-white.png" alt="Arm-64.com Logo" />
-      </object>
+      <a href="https://fosshost.org">
+        <img src="/fosshost-badge.png" alt="Fosshost badge" />
+      </a>
     </div>
     <div className={styles.right}>
       <div className={styles.links}>
@@ -19,7 +22,11 @@ const Footer = () => (
         <Link href="/">Contact Us</Link>
         <Link href="/policy">Our Policy</Link>
       </div>
-      <div className={styles.social}></div>
+      <div className={styles.social}>
+        <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+          <TwitterIcon />
+        </a>
+      </div>
     </div>
   </footer>
 );
