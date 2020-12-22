@@ -119,7 +119,7 @@
 
   .post {
     padding: 2.5rem !important;
-    height: 25rem;
+    height: 30rem;
 
     h1 {
       font-size: 2.5rem;
@@ -138,13 +138,13 @@
 
   .others {
     flex-flow: row nowrap !important;
-  }
 
-  .post {
-    height: 20rem;
+    .post {
+      height: 20rem;
 
-    h1 {
-      font-size: 2.25rem;
+      h1 {
+        font-size: 2.25rem;
+      }
     }
   }
 }
