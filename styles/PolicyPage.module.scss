@@ -1,0 +1,23 @@
+.policyPage {
+  padding: 1.5rem;
+
+  h1 {
+    margin-top: 0;
+  }
+
+  p a {
+    text-decoration: underline;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .policyPage {
+    padding: 0;
+    width: 50%;
+    margin: 0 auto 3rem;
+  }
+}
