@@ -33,15 +33,10 @@
   .sponsors {
     padding: 2.5rem 7rem;
   }
+  .list a:last-child {
+    margin-bottom: 2rem;
+  }
   .list a:not(:last-child) {
     margin-right: 5rem;
   }
-  /* .list {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 3rem;
-    a {
-      margin: 0 !important;
-    }
-  } */
 }

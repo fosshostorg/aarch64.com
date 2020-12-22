@@ -35,7 +35,7 @@
   display: flex;
   flex-flow: column;
   justify-content: flex-end;
-  background: #8190cc;
+  background: #425abb;
   padding: 1.5rem;
   min-height: 14rem;
   width: 100%;
@@ -81,9 +81,21 @@
   z-index: 1;
 }
 
+.author {
+  white-space: nowrap;
+}
+
+.date {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .avatar {
   width: 1.85rem;
+  min-width: 1.85rem;
   height: 1.85rem;
+  min-height: 1.85rem;
   border-radius: 50%;
   position: relative;
   overflow: hidden;
