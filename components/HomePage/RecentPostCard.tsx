@@ -4,7 +4,12 @@ import authors from "@/data/authors";
 
 const RecentPostCard = ({ post }) => (
   <Link href={`/post/${post.slug}`}>
-    <a className={styles.post}>
+    <a
+      className={styles.post}
+      style={{
+        backgroundImage: `linear-gradient(10deg, rgba(0,0,0,0.85), rgba(0,0,0,0.85)), url(/thumbnails/${post.thumbnail})`,
+      }}
+    >
       <div className={styles.overlay}></div>
       <h1>{post.title}</h1>
       <div className={styles.meta}>
