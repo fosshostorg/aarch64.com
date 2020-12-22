@@ -9,6 +9,7 @@ import FacebookIcon from "@/components/icons/Facebook";
 import LinkedInIcon from "@/components/icons/LinkedIn";
 import Head from "next/head";
 import MailIcon from "@/components/icons/Mail";
+import authors from "@/data/authors";
 
 const Post = ({ frontmatter, markdownBody, shareUrl }) => (
   <>
@@ -72,9 +73,16 @@ const Post = ({ frontmatter, markdownBody, shareUrl }) => (
           </div>
           <div className={styles.meta}>
             <div className={styles.avatar}>
-              <img src={frontmatter.authorImg} alt="Photo of the Author" />
+              <img
+                src={`/avatars/${
+                  authors.find((a) => a.id === frontmatter.author).img
+                }`}
+                alt="Photo of the Author"
+              />
             </div>
-            <div className={styles.author}>{frontmatter.author}</div>
+            <div className={styles.author}>
+              {authors.find((a) => a.id === frontmatter.author).name}
+            </div>
           </div>
           <div className={styles.body}>
             <ReactMarkdown source={markdownBody} />
@@ -92,9 +100,6 @@ export const getStaticProps = async (context) => {
   const content = await import(`posts/${slug}.md`);
 
   const data = matter(content.default);
-  data.data.authorImg = `/avatars/${data.data.author
-    .toLowerCase()
-    .replace(/\W/g, "-")}.png`;
 
   if (!data.data.description) {
     data.data.description = data.content

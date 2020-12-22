@@ -1,6 +1,6 @@
 ---
 title: Welcome to Arm-64.com
-author: Brunos Miguel
+author: eth01
 date: December 20, 2020 07:18 PM
 thumbnail: 1.jpg
 ---
@@ -29,4 +29,4 @@ thanks to our very kind sponsors. They are:
   Twitter](https://twitter.com/fosshostorg) and share this web page with educational
   groups, ARM fans, and like-minded individuals.
 
-##### _Arm-64.com is not affiliated with Arm Holdings or its affiliates. We are anindependent group of IT professionals interested in the ARM hardware and a part of the [Fosshost](https://fosshost.org) project. All rights reserved._
+##### _Arm-64.com is not affiliated with Arm Holdings or its affiliates. We are an independent group of IT professionals interested in the ARM hardware and a part of the [Fosshost](https://fosshost.org) project. All rights reserved._

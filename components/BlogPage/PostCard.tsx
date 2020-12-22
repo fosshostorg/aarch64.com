@@ -1,5 +1,6 @@
 import Link from "next/link";
 import styles from "@/styles/Blog/BlogPage.module.scss";
+import authors from "@/data/authors";
 
 const PostCard = ({ post }) => (
   <Link href={`/post/${post.slug}`}>
@@ -20,13 +21,13 @@ const PostCard = ({ post }) => (
         <div className={styles.meta}>
           <div className={styles.avatar}>
             <img
-              src={`/avatars/${post.author
-                .toLowerCase()
-                .replace(/\W/g, "-")}.png`}
-              alt={`Image of ${post.author}`}
+              src={`/avatars/${authors.find((a) => a.id === post.author).img}`}
+              alt={`Image of ${authors.find((a) => a.id === post.author).name}`}
             />
           </div>
-          <div className={styles.author}>{post.author}</div>
+          <div className={styles.author}>
+            {authors.find((a) => a.id === post.author).name}
+          </div>
         </div>
       </div>
     </a>
