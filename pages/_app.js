@@ -12,6 +12,12 @@ function MyApp({ Component, pageProps }) {
         />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="/favicon.png" />
+        <script
+          async
+          defer
+          data-domain="arm-64.com"
+          src="https://plausible.io/js/plausible.js"
+        ></script>
       </Head>
       <Component {...pageProps} />
     </>
