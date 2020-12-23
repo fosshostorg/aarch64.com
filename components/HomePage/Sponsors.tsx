@@ -2,8 +2,8 @@ import styles from "@/styles/HomePage/Sponsors.module.scss";
 import sponsors from "@/data/sponsors";
 
 const Sponsors = () => (
-  <div className={styles.sponsors}>
-    <h3>SUPPORTED BY</h3>
+  <section className={styles.sponsors}>
+    <h2>SUPPORTED BY</h2>
     <div className={styles.list}>
       {sponsors.map((sponsor) => (
         <a
@@ -16,7 +16,7 @@ const Sponsors = () => (
         </a>
       ))}
     </div>
-  </div>
+  </section>
 );
 
 export default Sponsors;

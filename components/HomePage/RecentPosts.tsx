@@ -3,8 +3,8 @@ import LinkButton from "../common/LinkButton";
 import RecentPostCard from "./RecentPostCard";
 
 const RecentPosts = ({ posts }) => (
-  <div className={styles.recentPosts}>
-    <h3>RECENT POSTS</h3>
+  <section className={styles.recentPosts}>
+    <h2>RECENT POSTS</h2>
     <div className={styles.posts}>
       <RecentPostCard post={posts[0]} />
       {posts[1] && posts[2] && (
@@ -15,7 +15,7 @@ const RecentPosts = ({ posts }) => (
       )}
     </div>
     <LinkButton href="/blog">See All Posts</LinkButton>
-  </div>
+  </section>
 );
 
 export default RecentPosts;

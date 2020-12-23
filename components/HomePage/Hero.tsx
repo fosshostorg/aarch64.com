@@ -3,7 +3,7 @@ import styles from "@/styles/HomePage/Hero.module.scss";
 import LinkButton from "../common/LinkButton";
 
 const Hero = () => (
-  <div className={styles.hero}>
+  <main className={styles.hero}>
     <div className={styles.left}>
       <h1>Our journey of ARMing the open source community</h1>
       <p>
@@ -15,7 +15,7 @@ const Hero = () => (
     <div className={styles.right}>
       <Image />
     </div>
-  </div>
+  </main>
 );
 
 export default Hero;
