@@ -9,6 +9,9 @@
   font-size: 1.15rem;
   transition: 0.25s;
   user-select: none;
+  border: 0;
+  cursor: pointer;
+  font-family: inherit;
 
   &:hover {
     background: #3f3d56;
