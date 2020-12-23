@@ -12,7 +12,6 @@ const Footer = () => (
         We are not affiliated with Arm Holdings or any of it’s subsidiaries. We
         are a Fosshost project.
       </p>
-      <img src="/fosshost-badge.png" alt="Fosshost badge" />
     </div>
     <div className={styles.right}>
       <div className={styles.links}>
