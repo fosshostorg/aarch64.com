@@ -9,37 +9,23 @@ const ContactPage = () => {
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
 
-  const encode = (data) => {
-    return Object.keys(data)
-      .map(
-        (key) => encodeURIComponent(key) + "=" + encodeURIComponent(data[key])
-      )
-      .join("&");
-  };
-
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    fetch("/", {
-      method: "POST",
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "contact", name, email, message }),
-    })
-      .then(() => alert("Success!"))
-      .catch((error) => alert(error));
-  };
-
   return (
     <>
       <Header />
       <div className={styles.contactPage}>
         <h1>Contact Us</h1>
-        <form onSubmit={handleSubmit}>
+        <form
+          name="contact"
+          action="/success"
+          method="POST"
+          data-netlify="true"
+        >
           <div className={styles.formInput}>
             <label htmlFor="nameInput">Name:</label>
             <input
               type="text"
               id="nameInput"
-              name="nameInput"
+              name="name"
               value={name}
               onChange={(e) => setName(e.target.value)}
             />
@@ -49,7 +35,7 @@ const ContactPage = () => {
             <input
               type="email"
               id="emailInput"
-              name="emailInput"
+              name="email"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
             />
@@ -57,7 +43,7 @@ const ContactPage = () => {
           <div className={styles.formInput}>
             <label htmlFor="messageInput">Message:</label>
             <textarea
-              name="messageInput"
+              name="message"
               id="messageInput"
               value={message}
               onChange={(e) => setMessage(e.target.value)}
