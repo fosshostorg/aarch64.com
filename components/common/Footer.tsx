@@ -21,7 +21,11 @@ const Footer = () => (
         <Link href="/policy">Our Policy</Link>
       </div>
       <div className={styles.social}>
-        <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://twitter.com/fosshostorg"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <TwitterIcon />
           <span>Twitter Link</span>
         </a>
