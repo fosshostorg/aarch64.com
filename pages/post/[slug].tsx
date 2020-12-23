@@ -3,7 +3,7 @@ import Footer from "@/components/common/Footer";
 import styles from "@/styles/Blog/Post.module.scss";
 import fs from "fs";
 import matter from "gray-matter";
-import ReactMarkdown from "react-markdown";
+import ReactMarkdown from "react-markdown/with-html";
 import TwitterIcon from "@/components/icons/Twitter";
 import FacebookIcon from "@/components/icons/Facebook";
 import LinkedInIcon from "@/components/icons/LinkedIn";
@@ -89,7 +89,7 @@ const Post = ({ frontmatter, markdownBody, shareUrl }) => (
             </div>
           </div>
           <div className={styles.body}>
-            <ReactMarkdown source={markdownBody} />
+            <ReactMarkdown source={markdownBody} allowDangerousHtml />
           </div>
         </article>
       </main>
