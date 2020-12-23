@@ -2,7 +2,7 @@
 title: Now accepting pre-applications for ARM64-as-a-service
 author: eth01
 date: December 23, 2020 07:10 PM
-thumbnail: 1.jpg
+thumbnail: Ampere_eMAG-banner_1366x350_073020-1320x338.png
 ---
 
 #### Arm-64.com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost.org) project, intended to give you a real insight into the world of ARM computing. Share our journey of how we plan, manage, coordinate, and deploy a hyperscale ARMv8 distributed cloud computing platform in more than six global locations.
