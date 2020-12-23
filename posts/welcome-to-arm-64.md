@@ -22,10 +22,10 @@ thanks to our very kind sponsors. They are:
 
 - [CustodianDC.com](https://custodiandc.com)
 - [Hivedatacentre.com](https://hivedatacentre.com)
-- [Metal.Equinix.com](https://metal.equinix.com
+- [Metal.Equinix.com](https://metal.equinix.com)
 - [WebNX.com](https://webnx.com) 
   
 Please take the opportunity to [follow us on
-  Twitter](https://twitter.com/fosshostorg) and share this web page with educational
-  groups, ARM fans, and like-minded individuals.
+Twitter](https://twitter.com/fosshostorg) and share this web page with educational
+groups, ARM fans, and like-minded individuals.
 
