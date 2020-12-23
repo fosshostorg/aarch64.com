@@ -25,7 +25,7 @@ const Post = ({ frontmatter, markdownBody, shareUrl }) => (
           alt="Post Thumbnail"
         />
       </div>
-      <div className={styles.post}>
+      <main className={styles.post}>
         <div className={styles.shareButtons}>
           <div className={styles.shareHeading}>Share</div>
           <div className={styles.buttons}>
@@ -35,6 +35,7 @@ const Post = ({ frontmatter, markdownBody, shareUrl }) => (
               rel="noreferrer noopener"
             >
               <MailIcon />
+              <span>Share Using E-mail</span>
             </a>
             <a
               href={`https://twitter.com/intent/tweet?url=${shareUrl}&text=`}
@@ -42,6 +43,7 @@ const Post = ({ frontmatter, markdownBody, shareUrl }) => (
               rel="noreferrer noopener"
             >
               <TwitterIcon />
+              <span>Share Using Twitter</span>
             </a>
             <a
               href={`https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`}
@@ -49,6 +51,7 @@ const Post = ({ frontmatter, markdownBody, shareUrl }) => (
               rel="noreferrer noopener"
             >
               <FacebookIcon />
+              <span>Share Using Facebook</span>
             </a>
             <a
               href={`https://www.linkedin.com/shareArticle?mini=true&url=${shareUrl}&title=&summary=&source=`}
@@ -56,10 +59,11 @@ const Post = ({ frontmatter, markdownBody, shareUrl }) => (
               rel="noreferrer noopener"
             >
               <LinkedInIcon />
+              <span>Share Using LinkedIn</span>
             </a>
           </div>
         </div>
-        <div className={styles.main}>
+        <article className={styles.main}>
           <h1>{frontmatter.title}</h1>
           <div className={styles.date}>
             {new Date(frontmatter.date).toLocaleString("en-US", {
@@ -87,8 +91,8 @@ const Post = ({ frontmatter, markdownBody, shareUrl }) => (
           <div className={styles.body}>
             <ReactMarkdown source={markdownBody} />
           </div>
-        </div>
-      </div>
+        </article>
+      </main>
     </div>
     <Footer />
   </>

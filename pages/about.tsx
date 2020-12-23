@@ -10,7 +10,7 @@ const About = () => (
       <title>About Us | Arm-64.com</title>
     </Head>
     <Header />
-    <div className={styles.about}>
+    <main className={styles.about}>
       <h1>About Arm-64.com</h1>
       <p>
         Arm-64.com is a blog operated by Fosshost, a non-profit hosting provider
@@ -121,7 +121,7 @@ const About = () => (
         so click here to understand how you can help, otherwise, check our blog
         daily for updates from our ARM Team!
       </p>
-    </div>
+    </main>
     <Footer />
   </>
 );

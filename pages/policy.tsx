@@ -5,7 +5,7 @@ import styles from "@/styles/PolicyPage.module.scss";
 const Policy = () => (
   <>
     <Header />
-    <div className={styles.policyPage}>
+    <main className={styles.policyPage}>
       <h1>Our Policy</h1>
       <p>
         We are not affiliated, associated, involved, connected, indirectly,
@@ -82,7 +82,7 @@ const Policy = () => (
         privacy-friendly alternative to Google Analytics. No cookies and fully
         compliant with GDPR, CCPA and PECR. Made and hosted in the EU.
       </p>
-    </div>
+    </main>
     <Footer />
   </>
 );

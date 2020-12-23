@@ -1,8 +1,9 @@
 .recentPosts {
   padding: 1.5rem;
 
-  h3 {
-    color: #989898;
+  h2 {
+    color: #4d4d4d;
+    font-size: 1.25rem;
   }
 
   a {
@@ -49,17 +50,18 @@
       opacity: 1;
     }
   }
+}
 
-  h1 {
-    color: #fff;
-    margin: 0 0 0.75rem 0;
-    display: -webkit-box;
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: 2;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    z-index: 1;
-  }
+.title {
+  color: #fff;
+  margin: 0 0 0.75rem 0;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  z-index: 1;
+  font-weight: bold;
 }
 
 .overlay {
@@ -120,10 +122,10 @@
   .post {
     padding: 2.5rem !important;
     height: 30rem;
+  }
 
-    h1 {
-      font-size: 2.5rem;
-    }
+  .title {
+    font-size: 2.5rem;
   }
 
   .meta {
@@ -142,7 +144,7 @@
     .post {
       height: 20rem;
 
-      h1 {
+      .title {
         font-size: 2.25rem;
       }
     }

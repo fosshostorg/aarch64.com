@@ -13,7 +13,7 @@ const Blog = ({ results, page }) => (
       <title>Blog | Arm-64.com</title>
     </Head>
     <Header />
-    <div className={styles.blogPage}>
+    <main className={styles.blogPage}>
       <h1>Blog</h1>
       <div className={styles.posts}>
         {results.posts.map((post) => (
@@ -26,7 +26,7 @@ const Blog = ({ results, page }) => (
         next={results.next}
         last={results.last}
       />
-    </div>
+    </main>
     <Footer />
   </>
 );

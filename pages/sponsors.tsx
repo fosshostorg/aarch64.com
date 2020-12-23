@@ -10,7 +10,7 @@ const Sponsors = () => (
       <title>Sponsors | Arm-64.com</title>
     </Head>
     <Header />
-    <div className={styles.sponsorSection}>
+    <main className={styles.sponsorSection}>
       <h1>Our Sponsors</h1>
       <div className={styles.list}>
         {sponsors.map((sponsor) => (
@@ -18,7 +18,7 @@ const Sponsors = () => (
             <div className={styles.logo}>
               <img
                 src={`/sponsors/${sponsor.img}`}
-                alt={sponsor.name}
+                alt={`${sponsor.name} Logo`}
                 className={styles[`${sponsor.id}`]}
               />
             </div>
@@ -31,7 +31,7 @@ const Sponsors = () => (
           </div>
         ))}
       </div>
-    </div>
+    </main>
     <Footer />
   </>
 );

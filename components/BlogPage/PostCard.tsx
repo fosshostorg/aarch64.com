@@ -17,12 +17,12 @@ const PostCard = ({ post }) => (
       </div>
       <div className={styles.info}>
         <div className={styles.date}>{post.date}</div>
-        <h1 className={styles.title}>{post.title}</h1>
+        <div className={styles.title}>{post.title}</div>
         <div className={styles.meta}>
           <div className={styles.avatar}>
             <img
               src={`/avatars/${authors.find((a) => a.id === post.author).img}`}
-              alt={`Image of ${authors.find((a) => a.id === post.author).name}`}
+              alt="Author avatar"
             />
           </div>
           <div className={styles.author}>

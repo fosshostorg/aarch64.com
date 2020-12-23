@@ -5,6 +5,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
+        <html lang="en" />
         <title>Arm-64.com</title>
         <meta
           name="description"

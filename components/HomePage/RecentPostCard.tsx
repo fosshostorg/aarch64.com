@@ -11,7 +11,7 @@ const RecentPostCard = ({ post }) => (
       }}
     >
       <div className={styles.overlay}></div>
-      <h1>{post.title}</h1>
+      <div className={styles.title}>{post.title}</div>
       <div className={styles.meta}>
         <div className={styles.avatar}>
           <img

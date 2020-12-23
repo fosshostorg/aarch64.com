@@ -32,6 +32,10 @@
   a {
     fill: #555;
 
+    span {
+      display: none;
+    }
+
     &:hover {
       fill: #242424 !important;
     }
