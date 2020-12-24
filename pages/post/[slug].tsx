@@ -14,8 +14,25 @@ import authors from "@/data/authors";
 const Post = ({ frontmatter, markdownBody, shareUrl }) => (
   <>
     <Head>
-      <title>{frontmatter.title} | Arm-64.com</title>
+      <title>{frontmatter.title}</title>
+      <meta name="title" content={frontmatter.title} />
       <meta name="description" content={frontmatter.description} />
+      <meta property="og:type" content="website" />
+      <meta property="og:url" content={shareUrl} />
+      <meta property="og:title" content={frontmatter.title} />
+      <meta property="og:description" content={frontmatter.description} />
+      <meta
+        property="og:image"
+        content={`https://arm-64.com/thumbnails/${frontmatter.thumbnail}`}
+      />
+      <meta property="twitter:card" content="summary_large_image" />
+      <meta property="twitter:url" content={shareUrl} />
+      <meta property="twitter:title" content={frontmatter.title} />
+      <meta property="twitter:description" content={frontmatter.description} />
+      <meta
+        property="twitter:image"
+        content={`https://arm-64.com/thumbnails/${frontmatter.thumbnail}`}
+      />
     </Head>
     <Header />
     <div className={styles.blogPost}>
