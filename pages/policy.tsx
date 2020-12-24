@@ -12,7 +12,6 @@ const Policy = () => (
         directly, related or a part of ARM Holdings, ARM Limited or it’s
         subsidiaries.
       </p>
-      <p>The content displayed on the website is released under CCL.</p>
       <p>
         All information posted is merely for educational and informational
         purposes. It is not intended as a substitute for professional advice.
@@ -71,14 +70,12 @@ const Policy = () => (
         form of additional rack space. There is no cash equivalent.
       </p>
       <p>
-        Applications for our services are subject to the Terms and Conditions
-        published at <a href="https://fosshost.org/legal">fosshost.org/legal</a>
-        . ARM-64.com is purely an informational website only.
+        Applications for our services are subject to the [Terms and Conditions](https://fosshost.org/legal).
+        ARM-64.com is purely an informational website only.
       </p>
       <p>
         We do operate analytics tracking on this website to understand our
-        website visitors. These services are provided by{" "}
-        <a href="https://plausible.io">plausible.io</a> that is a simple and
+        website visitors. These services are provided by [plausible.io](https://plausible.io) that is a simple and
         privacy-friendly alternative to Google Analytics. No cookies and fully
         compliant with GDPR, CCPA and PECR. Made and hosted in the EU.
       </p>
