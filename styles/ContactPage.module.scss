@@ -1,0 +1,46 @@
+.contactPage {
+  padding: 1.5rem 1.5rem 2.5rem;
+
+  h1 {
+    margin-top: 0;
+  }
+}
+
+.formInput {
+  display: flex;
+  flex-flow: column nowrap;
+  margin-bottom: 1.25rem;
+
+  label {
+    font-size: 1.15rem;
+    margin-bottom: 0.5rem;
+  }
+
+  input,
+  textarea {
+    padding: 0.5rem;
+    border: 1px solid rgba(0, 0, 0, 0.45);
+    font-family: inherit;
+
+    &:hover {
+      border: 1px solid #000;
+    }
+
+    &:focus {
+      outline: 2px solid #2e73b4;
+    }
+  }
+
+  textarea {
+    min-height: 10rem;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .contactPage {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 2rem;
+    padding-top: 0;
+  }
+}

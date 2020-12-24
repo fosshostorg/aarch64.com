@@ -1,0 +1,129 @@
+import Footer from "@/components/common/Footer";
+import Header from "@/components/common/Header";
+import Head from "next/head";
+import styles from "@/styles/AboutPage.module.scss";
+import Link from "next/link";
+
+const About = () => (
+  <>
+    <Head>
+      <title>About Us | Arm-64.com</title>
+    </Head>
+    <Header />
+    <main className={styles.about}>
+      <h1>About Arm-64.com</h1>
+      <p>
+        Arm-64.com is a blog operated by Fosshost, a non-profit hosting provider
+        that supports hundreds of open-source projects with cloud computing
+        services. This website was created to track the development and progress
+        of the Fosshost Arm-64 build project. We will provide daily updates on
+        our journey, intended to be both informative and practical, and an
+        insight into the ARM world.
+      </p>
+      <p>
+        Our philosophy is to go further together, providing open-source projects
+        and communities with an exclusive world-class and tailored hosting
+        experience. To achieve this, we work with industry leaders, influential
+        organizations, and individuals who promote the ARM ecosystem. What will
+        you build, test or optimize on ARM?
+      </p>
+      <p>
+        This project would not be possible without the support of{" "}
+        <a
+          href="https://amperecomputing.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Ampere Computing
+        </a>
+        ,{" "}
+        <a
+          href="https://metal.equinix.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Equinix Metal
+        </a>
+        ,{" "}
+        <a
+          href="https://www.custodiandc.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          CustodianDC
+        </a>
+        ,{" "}
+        <a
+          href="https://hivedatacenter.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          HiveDC
+        </a>
+        ,{" "}
+        <a
+          href="https://www.webnx.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          WebNX
+        </a>
+        ,{" "}
+        <a
+          href="https://infernocomms.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Inferno Communications
+        </a>
+        , and{" "}
+        <a
+          href="https://www.packetframe.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          PacketFrame
+        </a>
+        . Further details of sponsorships can be found on our{" "}
+        <Link href="/sponsors">sponsorship page</Link>.
+      </p>
+      <h2>Our History</h2>
+      <p>
+        Our Founder, Thomas Markey, was introduced to Peter Pouliot, Senior
+        Developer Advocate at Ampere Computing, in September 2020, by Hector
+        Oron, Debian Developer at the Debian Project. This contact kicked off
+        the Arm-64 project.
+      </p>
+      <p>
+        Following this contact, we have very generously been awarded 50 units of
+        ARMv8 32 cores (in a single chip), clocked at 3.3GHz, Lenovo machines.
+        These machines are currently in the process of being shipped from the
+        United States of America to their respective new home.
+      </p>
+      <p>
+        The last few months have been very busy, working behind the scenes to
+        create and coordinate a programme of works to further enhance and
+        compliment the services of Fosshost, by introducing powerful ARMv8
+        infrastructure.
+      </p>
+      <p>
+        The resource and effort to make this project is only possible thanks to
+        our sponsors, Ampere Computing, and the help of our volunteers, trustees
+        and contributors from the Fosshost community.
+      </p>
+      <p>
+        We work in partnership with the Works on Arm Programme ran by Ed
+        Vielmetti, Equinix Metal (Packet), and have a number of hosting sponsors
+        who will support our journey in the managed data centre environment.
+      </p>
+      <p>
+        We hope you enjoy our journey, we want you to be part of that journey,
+        so click here to understand how you can help, otherwise, check our blog
+        daily for updates from our ARM Team!
+      </p>
+    </main>
+    <Footer />
+  </>
+);
+
+export default About;

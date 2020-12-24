@@ -1,0 +1,43 @@
+.sponsors {
+  padding: 1.5rem;
+
+  h2 {
+    color: #4d4d4d;
+    font-size: 1.25rem;
+  }
+}
+
+.list {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem 0;
+
+  a:not(:last-child) {
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  img {
+    height: 3rem;
+    transition: filter 0.15s;
+    filter: grayscale(1);
+
+    &:hover {
+      filter: grayscale(0);
+    }
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .sponsors {
+    padding: 2.5rem 7rem;
+  }
+  .list a:last-child {
+    margin-bottom: 2rem;
+  }
+  .list a:not(:last-child) {
+    margin-right: 5rem;
+  }
+}
