@@ -18,6 +18,7 @@ const Footer = () => (
         <h3>Links</h3>
         <Link href="/contact">Contact Us</Link>
         <Link href="/policy">Our Policy</Link>
+        <Link href="/press">Media & Press</Link>
       </div>
       <div className={styles.social}>
         <a
