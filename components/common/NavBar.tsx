@@ -1,5 +1,6 @@
 import styles from "@/styles/Header.module.scss";
 import Link from "next/link";
+import button from "@/styles/Button.module.scss";
 
 const NavBar = () => (
   <nav className={styles.nav}>
@@ -19,6 +20,14 @@ const NavBar = () => (
       <Link href="/about">
         <a className={styles.item}>About</a>
       </Link>
+      <a
+        href="https://fosshost.org/apply"
+        target="_blank"
+        rel="noopener noreferrer"
+        className={button.button}
+      >
+        Apply Now
+      </a>
     </div>
   </nav>
 );
