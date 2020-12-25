@@ -1,5 +1,6 @@
 import styles from "@/styles/Footer.module.scss";
 import Link from "next/link";
+import RSSIcon from "../icons/RSS";
 import TwitterIcon from "../icons/Twitter";
 
 const Footer = () => (
@@ -28,6 +29,10 @@ const Footer = () => (
         >
           <TwitterIcon />
           <span>Twitter Link</span>
+        </a>
+        <a href="/feed.xml" target="_blank" rel="noopener noreferrer">
+          <RSSIcon />
+          <span>RSS Feed</span>
         </a>
       </div>
     </div>

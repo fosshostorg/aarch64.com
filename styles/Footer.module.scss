@@ -41,6 +41,10 @@
     fill: #fff;
     padding: 0.5rem;
 
+    &:not(:last-child) {
+      margin-right: 1rem;
+    }
+
     &:hover {
       background: #181818;
     }
