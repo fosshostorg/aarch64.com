@@ -1,0 +1,28 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Arm-64.com - Blog</title>
+      <link>https://arm-64.com/blog</link>
+      <description>Daily blog run by experts about the challenges of planning, coordinating and managing 50u of Arm hardware in multiple, global locations.</description>
+      <language>en</language>
+      <lastBuildDate>Wed, 23 Dec 2020 13:40:00 GMT</lastBuildDate>
+      <atom:link href="https://arm-64.com/rss.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://arm-64.com/post/accepting-preapplications</guid>
+    <title>Now accepting pre-applications for ARM64-as-a-service</title>
+    <link>https://arm-64.com/post/accepting-preapplications</link>
+    <description>#### Arm-64. com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost</description>
+    <pubDate>Wed, 23 Dec 2020 13:40:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>https://arm-64.com/post/welcome-to-arm-64</guid>
+    <title>Welcome to Arm-64.com</title>
+    <link>https://arm-64.com/post/welcome-to-arm-64</link>
+    <description>#### Arm-64. com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost</description>
+    <pubDate>Sun, 20 Dec 2020 13:48:00 GMT</pubDate>
+  </item>
+
+    </channel>
+  </rss>

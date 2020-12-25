@@ -5,11 +5,20 @@ import styles from "@/styles/Blog/BlogPage.module.scss";
 import paginatedResults from "utils/paginatedResults";
 import PostCard from "@/components/BlogPage/PostCard";
 import Pagination from "@/components/BlogPage/Pagination";
+import getAllPosts from "utils/getAllPosts";
+import generateRSS from "utils/generateRSS";
+import fs from "fs";
 
 const Blog = ({ results }) => (
   <>
     <Head>
       <title>Blog | Arm-64.com</title>
+      <link
+        rel="alternate"
+        type="application/rss+xml"
+        title="RSS feed for blog posts"
+        href="https://arm-64.com/feed.xml"
+      />
     </Head>
     <Header />
     <main className={styles.blogPage}>
@@ -27,6 +36,10 @@ const Blog = ({ results }) => (
 
 export const getStaticProps = async () => {
   const page = 1;
+  const posts = getAllPosts();
+  const rss = generateRSS(posts);
+
+  fs.writeFileSync("./public/feed.xml", rss);
 
   let results = paginatedResults(page);
 
