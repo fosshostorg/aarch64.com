@@ -9,7 +9,7 @@ const Policy = () => (
       <h1>Our Policy</h1>
       <p>
         We are not affiliated, associated, involved, connected, indirectly,
-        directly, related or a part of ARM Holdings, ARM Limited or it’s
+        directly, related or a part of ARM Holdings or any of it’s
         subsidiaries.
       </p>
       <p>
@@ -42,11 +42,7 @@ const Policy = () => (
         organisations or suppliers as part of the overall experience to show a
         real, behind the scenes view of our project and the progress we make
         during our journey. The use of images does not always constitute
-        acceptance of any relationship. We do not advertise, promote or condone
-        any logo or image throughout this website, and neither can we be
-        responsible for your curiosity or self determination, if you decide that
-        you may wish to independently contact these organisations. Do so at your
-        own risk, we are not responsible for your actions.
+        acceptance of any relationship. 
       </p>
       <p>
         We do have sponsors who provide colocation facilities, not but limited
@@ -70,12 +66,12 @@ const Policy = () => (
         form of additional rack space. There is no cash equivalent.
       </p>
       <p>
-        Applications for our services are subject to the [Terms and Conditions](https://fosshost.org/legal).
+        Applications for our services are subject to the <a href="https://fosshost.org/legal">Terms and Conditions</a>.
         ARM-64.com is purely an informational website only.
       </p>
       <p>
         We do operate analytics tracking on this website to understand our
-        website visitors. These services are provided by [plausible.io](https://plausible.io) that is a simple and
+        website visitors. These services are provided by <a href="https://plausible.io">Plausible.io</a> that is a simple and
         privacy-friendly alternative to Google Analytics. No cookies and fully
         compliant with GDPR, CCPA and PECR. Made and hosted in the EU.
       </p>
