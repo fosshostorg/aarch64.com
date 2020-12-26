@@ -1,7 +1,7 @@
 ---
 title: RSS feeds are now live
 author: eth01
-date: December 26, 2020 21:00 PM
+date: December 26, 2020 09:00 PM
 thumbnail: rss-feed-symbol-shape-spotlight-isolated.jpg
 ---
 
