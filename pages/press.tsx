@@ -20,7 +20,7 @@ const Press = () => (
       <p>
         If you would like to have a conversation with our public relations team,
         please email{" "}
-        <a href="mailto:media@fosshost.org">media(at)fosshost.org</a>.
+        <a href="mailto:media@fosshost.org">media (at) fosshost.org</a>.
       </p>
     </div>
     <Footer />
