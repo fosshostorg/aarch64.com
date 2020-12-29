@@ -1,6 +1,6 @@
 const authors: Author[] = [
   {
-    name: "Joe Bloggs",
+    name: "Thomas Markey",
     id: "eth01",
     img: "eth01.jpg",
   },
