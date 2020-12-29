@@ -1,8 +1,13 @@
 const authors: Author[] = [
   {
-    name: "Thomas Markey",
+    name: "Joe Bloggs",
     id: "eth01",
     img: "eth01.jpg",
+  },
+  {
+    name: "Nate Sales",
+    id: "vela",
+    img: "vela.png",
   },
 ];
 
