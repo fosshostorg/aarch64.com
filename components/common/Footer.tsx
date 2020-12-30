@@ -1,5 +1,6 @@
 import styles from "@/styles/Footer.module.scss";
 import Link from "next/link";
+import GitHubIcon from "../icons/Github";
 import RSSIcon from "../icons/RSS";
 import TwitterIcon from "../icons/Twitter";
 
@@ -33,6 +34,14 @@ const Footer = () => (
         <a href="/feed.xml" target="_blank" rel="noopener noreferrer">
           <RSSIcon />
           <span>RSS Feed</span>
+        </a>
+        <a
+          href="https://github.com/fosshostorg/arm-64.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <GitHubIcon />
+          <span>Github Link</span>
         </a>
       </div>
     </div>
