@@ -47,13 +47,10 @@ export const getStaticProps = async (context) => {
 export const getStaticPaths = async (context) => {
   const LIMIT = 4;
   const posts = fs.readdirSync("posts");
-  const paths = [
-    ...Array(
-      Math.round(posts.length / LIMIT) !== 0
-        ? Math.round(posts.length / LIMIT)
-        : 1
-    ),
-  ]
+  const totalPages = Math.round(
+    posts.length / LIMIT + (posts.length % LIMIT !== 0 ? 0.5 : 0)
+  );
+  const paths = [...Array(totalPages !== 0 ? totalPages : 1)]
     .map((k, i) => i + 1)
     .map((i) => `/blog/${i}`);
   return {
