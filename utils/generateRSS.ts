@@ -1,3 +1,5 @@
+import { Post } from "types/index";
+
 const generateRSSItem = (post: Post): string => `
   <item>
     <guid>https://arm-64.com/post/${post.slug}</guid>

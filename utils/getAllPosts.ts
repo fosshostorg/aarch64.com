@@ -1,5 +1,6 @@
 import fs from "fs";
 import matter from "gray-matter";
+import { Post } from "types/index";
 
 const getAllPosts = (): Post[] => {
   let posts = fs.readdirSync("posts");

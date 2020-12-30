@@ -1,3 +1,5 @@
+import { Sponsor } from "types/index";
+
 const Sponsors: Sponsor[] = [
   {
     id: "ampere",
