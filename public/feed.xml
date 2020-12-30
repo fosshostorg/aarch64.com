@@ -5,9 +5,33 @@
       <link>https://arm-64.com/blog</link>
       <description>Daily blog run by experts about the challenges of planning, coordinating and managing 50u of Arm hardware in multiple, global locations.</description>
       <language>en</language>
-      <lastBuildDate>Wed, 23 Dec 2020 13:40:00 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 29 Dec 2020 09:30:00 GMT</lastBuildDate>
       <atom:link href="https://arm-64.com/rss.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://arm-64.com/post/infrastructure-overview</guid>
+    <title>Infrastructure Overview</title>
+    <link>https://arm-64.com/post/infrastructure-overview</link>
+    <description>The network architecture planned for the Fosshost ARM-64 deployment is a little different from a conventional "cloud" virtualization system - we have very little layer 3 infrastructure. Instead, the network relies on a large layer 2 domain</description>
+    <pubDate>Tue, 29 Dec 2020 09:30:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>https://arm-64.com/post/rss-feed</guid>
+    <title>RSS feeds are now live</title>
+    <link>https://arm-64.com/post/rss-feed</link>
+    <description>#### Arm-64. com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost</description>
+    <pubDate>Sat, 26 Dec 2020 15:30:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>https://arm-64.com/post/overview-of-donated-hardware</guid>
+    <title>Overview of donated hardware</title>
+    <link>https://arm-64.com/post/overview-of-donated-hardware</link>
+    <description>#### Arm-64. com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost</description>
+    <pubDate>Thu, 24 Dec 2020 05:30:00 GMT</pubDate>
+  </item>
+
   <item>
     <guid>https://arm-64.com/post/accepting-preapplications</guid>
     <title>Now accepting pre-applications for ARM64-as-a-service</title>
