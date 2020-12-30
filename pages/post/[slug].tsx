@@ -110,6 +110,16 @@ const Post = ({ frontmatter, markdownBody, shareUrl }) => (
           </div>
         </article>
       </main>
+      <div className={styles.comments}>
+        <script
+          src="https://utteranc.es/client.js"
+          repo="fosshostorg/arm-64.com"
+          issue-term="pathname"
+          theme="github-light"
+          crossOrigin="anonymous"
+          async
+        ></script>
+      </div>
     </div>
     <Footer />
   </>
