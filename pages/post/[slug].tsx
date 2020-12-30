@@ -10,6 +10,7 @@ import LinkedInIcon from "@/components/icons/LinkedIn";
 import Head from "next/head";
 import MailIcon from "@/components/icons/Mail";
 import authors from "@/data/authors";
+import CommentSection from "@/components/BlogPage/CommentSection";
 
 const Post = ({ frontmatter, markdownBody, shareUrl }) => (
   <>
@@ -110,15 +111,7 @@ const Post = ({ frontmatter, markdownBody, shareUrl }) => (
           </div>
         </article>
       </main>
-      <div className={styles.comments}>
-        <script
-          src="https://utteranc.es/client.js"
-          repo="fosshostorg/arm-64.com"
-          issue-term="pathname"
-          theme="github-light"
-          crossOrigin="anonymous"
-        ></script>
-      </div>
+      <CommentSection />
     </div>
     <Footer />
   </>
