@@ -114,7 +114,7 @@ const Post = ({ frontmatter, markdownBody, shareUrl }) => (
         <script
           src="https://utteranc.es/client.js"
           repo="fosshostorg/arm-64.com"
-          issue-term="pathname"
+          issue-term="url"
           theme="github-light"
           crossOrigin="anonymous"
           async
