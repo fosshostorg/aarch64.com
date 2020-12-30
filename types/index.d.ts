@@ -1,3 +1,5 @@
+import { AriaAttributes, DOMAttributes } from "react";
+
 type Sponsor = {
   name: string;
   id: string;
@@ -20,3 +22,10 @@ type Post = {
   author: string;
   description?: string;
 };
+
+declare module "react" {
+  interface HTMLAttributes<T> extends AriaAttributes, DOMAttributes<T> {
+    repo?: string;
+    theme?: string;
+  }
+}
