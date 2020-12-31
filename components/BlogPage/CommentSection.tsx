@@ -1,20 +1,17 @@
-const CommentSection = () => (
-  <section
-    ref={(elem) => {
-      if (!elem) {
-        return;
-      }
-      const scriptElem = document.createElement("script");
-      scriptElem.src = "https://utteranc.es/client.js";
-      scriptElem.async = true;
-      scriptElem.crossOrigin = "anonymous";
-      scriptElem.setAttribute("repo", "fosshostorg/arm-64.com");
-      scriptElem.setAttribute("issue-term", "pathname");
-      scriptElem.setAttribute("label", "blog-comment");
-      scriptElem.setAttribute("theme", "github-light");
-      elem.appendChild(scriptElem);
-    }}
-  />
-);
+import { useEffect, useRef } from "react";
+import ReactUtterances from "react-utterances";
+
+const CommentSection = () => {
+  return (
+    <section>
+      <ReactUtterances
+        repo="fosshostorg/arm-64.com"
+        type="pathname"
+        label="blog-comment"
+        theme="github-select"
+      />
+    </section>
+  );
+};
 
 export default CommentSection;
