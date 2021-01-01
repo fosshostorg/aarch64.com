@@ -1,5 +1,5 @@
 —
-title: Featured Sponsor: HiveDC
+title: Featured Sponsor - HiveDC
 date: January 01, 2021 04:45 PM
 summary: Welcome to the first in a series of blog posts about our incredible sponsors
 author: bruno
