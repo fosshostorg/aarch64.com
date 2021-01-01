@@ -19,7 +19,7 @@ const authors: Author[] = [
   {
     name: "Bruno Miguel",
     id: "bruno",
-    img: "bruno.png",
+    img: "bruno.jpg",
   },
 ];
 
