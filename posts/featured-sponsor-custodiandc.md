@@ -23,4 +23,4 @@ Five of our fifty 1U Lenovo ThinkSystem HR330A eMAG systems will be colocated at
 
 ##### Please take the opportunity to [follow us on Twitter](https://twitter.com/fosshostorg) and share this web page with educational groups, ARM fans, and like-minded individuals.
 
-###### _The image used in this blog post was provided to us by HiveDC. All rights reserved to them_
+###### _The image used in this blog post was provided to us by CustodianDC. All rights reserved to them_
