@@ -3,7 +3,7 @@ title: Featured Sponsor - CustodianDC
 date: January 04, 2021 21:00 PM
 summary: Welcome to our second post in a series of blog posts about our incredible sponsors
 author: eth01
-thumbnail: hivedc-montreal.jpg
+thumbnail: custodiandcbirdseyeview.jpg
 ---
 
 #### Welcome to our second post in a series of blog posts about our incredible sponsors
