@@ -12,7 +12,7 @@ Like many of you, today Jan, 4th 2021 was the start of a new working year. Depen
 
 Equally - a critical day for arm-64.com as we continue to plan, coordinate, and manage our enablement of 50units of ARM hardware.
 
-Today's post will be regarding [CustodianDC](https://arm-64.com/sponsors, an award-winning eco-friendly data center based in Kent, United Kingdom, and one ideally situated 30 minutes southeast of London, outside of high-risk zones but still within easy reach of London and Kent's surrounding areas.
+Today's post will be regarding [CustodianDC](https://arm-64.com/sponsors), an award-winning eco-friendly data center based in Kent, United Kingdom, and one ideally situated 30 minutes southeast of London, outside of high-risk zones but still within easy reach of London and Kent's surrounding areas.
 
 CustodianDC features, among many things, a 100% power uptime record, actively maintains a 1.2 annualised PUE, True 'A'&'B' diverse power feeds 2N, and a fully Multi-homed and highly resilient IP Transit service under ASN 50300.
   
