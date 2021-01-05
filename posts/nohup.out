@@ -52,3 +52,12 @@
 
 ** (gedit:9108): WARNING **: 23:22:41.637: Error loading plugin: libhspell.so.0: impossível abrir ficheiro-objecto partilhado: Ficheiro ou pasta inexistente
 
+
+** (gedit:9108): WARNING **: 02:04:20.776: Error loading plugin: libvoikko.so.1: impossível abrir ficheiro-objecto partilhado: Ficheiro ou pasta inexistente
+
+
+** (gedit:9108): WARNING **: 02:04:20.777: Error loading plugin: libnuspell.so.4: impossível abrir ficheiro-objecto partilhado: Ficheiro ou pasta inexistente
+
+
+** (gedit:9108): WARNING **: 02:04:20.778: Error loading plugin: libhspell.so.0: impossível abrir ficheiro-objecto partilhado: Ficheiro ou pasta inexistente
+
