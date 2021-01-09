@@ -3,7 +3,7 @@ title: Thomas Markey gives interview with IMakeFOSS
 date: January 08, 2021 08:00 PM
 summary: Thomas Markey, CEO and Founder of Fosshost gives interview to Monica Ayhens-Madon
 author: eth01
-thumbnail: imakefoss.png
+thumbnail: imakefoss.jpeg
 ---
 
 #### Thomas Markey gives interview to IMakeFOSS, giving a voice to FOSS projects around the world. Every week we hand the mic to a new contributor.
