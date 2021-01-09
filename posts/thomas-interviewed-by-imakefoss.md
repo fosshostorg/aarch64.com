@@ -19,4 +19,3 @@ IMakeFOSS is a rotation curation account similar to the @realscientists where pe
 
 ##### Please take the opportunity to [follow us on Twitter](https://twitter.com/fosshostorg) and share this web page with educational groups, ARM fans, and like-minded individuals.
 
-###### _The image used in this blog post was provided to us by CustodianDC. All rights reserved to them_
