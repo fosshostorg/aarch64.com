@@ -3,6 +3,7 @@ title: Beginning of talks with ARM Holdings
 date: January 09, 2021 09:00 PM
 summary: In a few days, we'll be discussing a closer relationship with ARM Holdings
 author: bruno
+thumbnail: talks.jpg
 ---
 
 In our endeavour to give an edge to the open-source community in the ARM world with the ARM-64 project, we have gathered many sponsors, interest from projects and volunteers. This is allowing us to advance our project and, hopefully soon, provide ARM-as-Service to the FOSS community.
