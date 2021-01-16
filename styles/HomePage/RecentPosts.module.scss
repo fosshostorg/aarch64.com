@@ -78,10 +78,13 @@
 .meta {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
   color: #dbdbdb;
   font-weight: bold;
   z-index: 1;
+
+  & > *:not(:last-child) {
+    margin-right: 0.5rem;
+  }
 }
 
 .author {
