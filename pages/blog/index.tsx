@@ -1,4 +1,3 @@
-import Notice from "@/components/common/Notice";
 import Footer from "@/components/common/Footer";
 import Header from "@/components/common/Header";
 import Head from "next/head";
@@ -21,7 +20,6 @@ const Blog = ({ results }) => (
         href="https://arm-64.com/feed.xml"
       />
     </Head>
-    <Notice />
     <Header />
     <main className={styles.blogPage}>
       <h1>Blog</h1>

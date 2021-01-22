@@ -1,4 +1,3 @@
-import Notice from "@/components/common/Notice";
 import Header from "@/components/common/Header";
 import Hero from "@/components/HomePage/Hero";
 import Sponsors from "@/components/HomePage/Sponsors";
@@ -8,7 +7,6 @@ import paginatedResults from "utils/paginatedResults";
 
 const Home = ({ posts }) => (
   <>
-    <Notice />
     <Header />
     <Hero />
     <Sponsors />
