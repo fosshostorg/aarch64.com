@@ -11,8 +11,7 @@ const Footer = () => (
         Made by <a href="https://fosshost.org">Fosshost</a>.
       </h2>
       <p>
-        We are not affiliated with Arm Holdings or any of it’s subsidiaries. We
-        are a Fosshost project.
+        We are not affiliated with Arm Limited or any of it’s subsidiaries. Arm is a registered trademark of Arm Limited. We are a Fosshost project.
       </p>
     </div>
     <div className={styles.right}>

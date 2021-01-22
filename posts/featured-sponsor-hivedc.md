@@ -16,10 +16,10 @@ HiveDC features, among many things, a 99% green data center and an uptime of 100
 
 <center><iframe title="vimeo-player" src="https://player.vimeo.com/video/454393786" width="640" height="360" frameborder="0" allowfullscreen></iframe><center>
 
-Two of our fifty 1U Lenovo ThinkSystem HR330A eMAG systems will be colocated at HiveDC's data center, thanks to their sponsorship. This will allow us to provide ARM64-as-Service for open-source projects in more regions across the globe.
+Two of our fifty 1U Lenovo ThinkSystem HR330A eMAG systems will be colocated at HiveDC's data center, thanks to their sponsorship. This will allow us to provide Arm64-as-Service for open-source projects in more regions across the globe.
 
 One of the company's co-founders, Karl Morin, was essential in providing sponsorship for the Arm-64 project. To him and everyone at HiveDC, thank you so much for all the kindness demonstrated toward us.
 
-##### Please take the opportunity to [follow us on Twitter](https://twitter.com/fosshostorg) and share this web page with educational groups, ARM fans, and like-minded individuals.
+##### Please take the opportunity to [follow us on Twitter](https://twitter.com/fosshostorg) and share this web page with educational groups, Arm fans, and like-minded individuals.
 
 ###### _The image used in this blog post was provided to us by HiveDC. All rights reserved to them_

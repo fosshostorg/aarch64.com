@@ -18,14 +18,14 @@ const About = () => (
         services. This website was created to track the development and progress
         of the Fosshost Arm-64 build project. We will provide daily updates on
         our journey, intended to be both informative and practical, and an
-        insight into the ARM world.
+        insight into the Arm world.
       </p>
       <p>
         Our philosophy is to go further together, providing open-source projects
         and communities with an exclusive world-class and tailored hosting
         experience. To achieve this, we work with industry leaders, influential
-        organizations, and individuals who promote the ARM ecosystem. What will
-        you build, test or optimize on ARM?
+        organizations, and individuals who promote the Arm ecosystem. What will
+        you build, test or optimize on Arm?
       </p>
       <p>
         This project would not be possible without the support of{" "}
@@ -96,14 +96,14 @@ const About = () => (
       </p>
       <p>
         Following this contact, we have very generously been awarded 50 units of
-        ARMv8 32 cores (in a single chip), clocked at 3.3GHz, Lenovo machines.
+        Armv8 32 cores (in a single chip), clocked at 3.3GHz, Lenovo machines.
         These machines are currently in the process of being shipped from the
         United States of America to their respective new home.
       </p>
       <p>
         The last few months have been very busy, working behind the scenes to
         create and coordinate a programme of works to further enhance and
-        compliment the services of Fosshost, by introducing powerful ARMv8
+        compliment the services of Fosshost, by introducing powerful Armv8
         infrastructure.
       </p>
       <p>
@@ -119,7 +119,7 @@ const About = () => (
       <p>
         We hope you enjoy our journey, we want you to be part of that journey,
         so click here to understand how you can help, otherwise, check our blog
-        daily for updates from our ARM Team!
+        daily for updates from our Arm Team!
       </p>
     </main>
     <Footer />

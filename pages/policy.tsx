@@ -9,7 +9,7 @@ const Policy = () => (
       <h1>Our Policy</h1>
       <p>
         We are not affiliated, associated, involved, connected, indirectly,
-        directly, related or a part of ARM Holdings or any of it’s
+        directly, related or a part of Arm Limited or any of it’s
         subsidiaries.
       </p>
       <p>
@@ -38,7 +38,7 @@ const Policy = () => (
         guarantee this. By using our website, you agree to the risks involved.
       </p>
       <p>
-        We may use images of ARM, our sponsors, partners, vendors, third party
+        We may use images of Arm, our sponsors, partners, vendors, third party
         organisations or suppliers as part of the overall experience to show a
         real, behind the scenes view of our project and the progress we make
         during our journey. The use of images does not always constitute
@@ -48,7 +48,7 @@ const Policy = () => (
         We do have sponsors who provide colocation facilities, not but limited
         to rack space, power, connectivity, cooling, security and associated
         services. We list sponsors on our website as those who help colocate
-        fosshost / ARM64 hardware. We have agreements with all of our sponsors
+        fosshost / Arm64 hardware. We have agreements with all of our sponsors
         that outline the terms of the service they provide.
       </p>
       <p>
@@ -67,7 +67,7 @@ const Policy = () => (
       </p>
       <p>
         Applications for our services are subject to the <a href="https://fosshost.org/legal">Terms and Conditions</a>.
-        ARM-64.com is purely an informational website only.
+        Arm-64.com is purely an informational website only.
       </p>
       <p>
         We do operate analytics tracking on this website to understand our

@@ -10,7 +10,7 @@ thumbnail: custodiandcbirdseyeview.jpg
 
 Today, January 4th 2021, is an important day for many of you: the start of a new working year. Depending on your timezone, you may have either finished it or are only starting your day.
 
-Equally important, it is a critical day for ARM-64.com as we continue to plan, coordinate, and manage our enablement of 50 units of ARM hardware. That, however, won't be the focus of this blog post.
+Equally important, it is a critical day for Arm-64.com as we continue to plan, coordinate, and manage our enablement of 50 units of Arm hardware. That, however, won't be the focus of this blog post.
 
 Today's post will be regarding [CustodianDC](https://arm-64.com/sponsors), an award-winning and eco-friendly data center based in Kent, United Kingdom, and one ideally situated 30 minutes southeast of London, outside the high-risk zones but still within easy reach of London and Kent's surrounding areas.
 
@@ -18,9 +18,9 @@ CustodianDC features, among many things, a 100% power uptime record, actively ma
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/O-kP48-ckeI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><center>
 
-Five of our fifty 1U Lenovo ThinkSystem HR330A eMAG systems will be colocated at CustodianDC data center, thanks to their sponsorship. This will allow us to provide ARM64-as-Service for open-source projects in more regions across the globe.
+Five of our fifty 1U Lenovo ThinkSystem HR330A eMAG systems will be colocated at CustodianDC data center, thanks to their sponsorship. This will allow us to provide Arm64-as-Service for open-source projects in more regions across the globe.
 
 
-##### Please take the opportunity to [follow us on Twitter](https://twitter.com/fosshostorg) and share this web page with educational groups, ARM fans, and like-minded individuals.
+##### Please take the opportunity to [follow us on Twitter](https://twitter.com/fosshostorg) and share this web page with educational groups, Arm fans, and like-minded individuals.
 
 ###### _The image used in this blog post was provided to us by CustodianDC. All rights reserved to them_

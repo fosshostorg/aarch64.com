@@ -17,5 +17,5 @@ IMakeFOSS is a rotation curation account similar to the @realscientists where pe
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/c__tdw7xEsc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><center>
 
 
-##### Please take the opportunity to [follow us on Twitter](https://twitter.com/fosshostorg) and share this web page with educational groups, ARM fans, and like-minded individuals.
+##### Please take the opportunity to [follow us on Twitter](https://twitter.com/fosshostorg) and share this web page with educational groups, Arm fans, and like-minded individuals.
 
