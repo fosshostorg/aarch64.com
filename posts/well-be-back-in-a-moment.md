@@ -1,7 +1,7 @@
 ---
 title: We'll be back in a moment
 author: bruno
-date: January 02, 2021 10:00 PM
+date: January 23, 2021 11:00 PM
 summary: Our blog posts will be back very soon
 thumbnail: brb.jpg
 ---
