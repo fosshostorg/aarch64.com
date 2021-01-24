@@ -18,7 +18,7 @@ exciting.
 With this project, we intend to bring Arm to the data center and create an open
 ecosystem that will give the open-source community a real competitive advantage.
 Our Arm platform will launch in Canada, Europe, UK and USA. This is only possible
-thanks to our very kind sponsors. They are:
+thanks to our very kind colocation sponsors. They are:
 
 - [CustodianDC.com](https://custodiandc.com)
 - [Hivedatacentre.com](https://hivedatacentre.com)
