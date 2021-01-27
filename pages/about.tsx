@@ -25,7 +25,7 @@ const About = () => (
         and communities with an exclusive world-class and tailored hosting
         experience. To achieve this, we work with industry leaders, influential
         organizations, and individuals who promote the Arm ecosystem. What will
-        you build, test or optimize on Arm?
+        you build, test or optimize on Arm technology?
       </p>
       <p>
         This project would not be possible without the support of{" "}
