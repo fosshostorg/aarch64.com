@@ -13,10 +13,10 @@ const About = () => (
     <main className={styles.about}>
       <h1>About Arm-64.com</h1>
       <p>
-        Arm-64.com is a blog operated by Fosshost, a non-profit hosting provider
+        AArch64.com is a blog operated by Fosshost, a non-profit hosting provider
         that supports hundreds of open-source projects with cloud computing
         services. This website was created to track the development and progress
-        of the Fosshost Arm-64 build project. We will provide daily updates on
+        of the Fosshost Arm build project. We will provide daily updates on
         our journey, intended to be both informative and practical, and an
         insight into the Arm world.
       </p>
@@ -92,7 +92,7 @@ const About = () => (
         Our Founder, Thomas Markey, was introduced to Peter Pouliot, Senior
         Developer Advocate at Ampere Computing, in September 2020, by Hector
         Oron, Debian Developer at the Debian Project. This contact kicked off
-        the Arm-64 project.
+        the AArch64 project.
       </p>
       <p>
         Following this contact, we have very generously been awarded 50 units of
@@ -113,7 +113,7 @@ const About = () => (
       </p>
       <p>
         We work in partnership with the Works on Arm Programme ran by Ed
-        Vielmetti, Equinix Metal (Packet), and have a number of hosting sponsors
+        Vielmetti, Equinix Metal, and have a number of hosting sponsors
         who will support our journey in the managed data centre environment.
       </p>
       <p>
