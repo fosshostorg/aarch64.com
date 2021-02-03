@@ -11,7 +11,7 @@ const About = () => (
     </Head>
     <Header />
     <main className={styles.about}>
-      <h1>About Arm-64.com</h1>
+      <h1>About AArch64.com</h1>
       <p>
         AArch64.com is a blog operated by Fosshost, a non-profit hosting provider
         that supports hundreds of open-source projects with cloud computing
