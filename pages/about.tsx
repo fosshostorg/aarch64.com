@@ -7,7 +7,7 @@ import Link from "next/link";
 const About = () => (
   <>
     <Head>
-      <title>About Us | Arm-64.com</title>
+      <title>About Us | AArch64.com</title>
     </Head>
     <Header />
     <main className={styles.about}>
