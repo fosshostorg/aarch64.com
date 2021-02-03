@@ -8,7 +8,7 @@ import LinkButton from "@/components/common/LinkButton";
 const Custom404 = () => (
   <>
     <Head>
-      <title>404 - File Not Found | Arm-64.com</title>
+      <title>404 - File Not Found | AArch64.com</title>
     </Head>
     <Header />
     <div className={styles.page404}>
