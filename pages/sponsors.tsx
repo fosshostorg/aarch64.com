@@ -7,7 +7,7 @@ import sponsors from "@/data/sponsors";
 const Sponsors = () => (
   <>
     <Head>
-      <title>Sponsors | Arm-64.com</title>
+      <title>Sponsors | AArch64.com</title>
     </Head>
     <Header />
     <main className={styles.sponsorSection}>
