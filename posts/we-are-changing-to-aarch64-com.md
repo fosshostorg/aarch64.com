@@ -2,7 +2,7 @@ title: Our name is changing!
 author: thomas
 date: February 4, 2021 11:00 PM
 summary: We have some exicting news!
-thumbnail: 
+thumbnail: ant-rozetsky-HXOllTSwrpM-unsplash.jpg
 ---
 
 We have decided to bring the Fosshost Project site in-line with other ARM-focussed open source efforts, which is why with immediete effect, we've changed our name and domain before our
