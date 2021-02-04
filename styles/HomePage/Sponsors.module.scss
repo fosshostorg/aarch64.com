@@ -30,14 +30,32 @@
   }
 }
 
+@supports (display: flex) and (gap: 1rem) {
+  .list {
+    gap: 2rem;
+
+    a {
+      margin: 0 !important;
+    }
+  }
+}
+
 @media screen and (min-width: 768px) {
   .sponsors {
     padding: 2.5rem 7rem;
   }
-  .list a:last-child {
-    margin-bottom: 2rem;
+  @supports (display: flex) and (gap: 1rem) {
+    .list {
+      gap: 3rem;
+      margin: 4rem 0 0;
+    }
   }
-  .list a:not(:last-child) {
-    margin-right: 5rem;
+  @supports not ((display: flex) and (gap: 1rem)) {
+    .list a:last-child {
+      margin-bottom: 2rem;
+    }
+    .list a:not(:last-child) {
+      margin-right: 5rem;
+    }
   }
 }

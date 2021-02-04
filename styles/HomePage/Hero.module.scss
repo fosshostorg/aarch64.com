@@ -2,6 +2,9 @@
   display: flex;
   flex-flow: row nowrap;
   padding: 1.5rem;
+  padding-bottom: 3rem;
+  background: #0950ac;
+  color: #fff;
 }
 
 .left {
@@ -28,7 +31,7 @@
 
 @media screen and (min-width: 768px) {
   .hero {
-    padding: 2.5rem 7rem;
+    padding: 3.25rem 7rem 6rem;
     align-items: center;
     justify-content: space-between;
   }
@@ -37,7 +40,7 @@
     max-width: 55%;
 
     h1 {
-      font-size: 3.15rem;
+      font-size: 3rem;
       margin: 0 0 2rem;
     }
 

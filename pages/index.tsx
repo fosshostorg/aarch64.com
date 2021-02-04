@@ -7,7 +7,7 @@ import paginatedResults from "utils/paginatedResults";
 
 const Home = ({ posts }) => (
   <>
-    <Header />
+    <Header data-index />
     <Hero />
     <Sponsors />
     <RecentPosts posts={posts} />
