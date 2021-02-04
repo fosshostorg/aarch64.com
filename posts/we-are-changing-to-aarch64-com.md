@@ -1,5 +1,6 @@
+---
 title: Our name is changing!
-author: thomas
+author: eth01
 date: February 4, 2021 11:00 PM
 summary: We have some exicting news!
 thumbnail: ant-rozetsky-HXOllTSwrpM-unsplash.jpg
