@@ -5,7 +5,7 @@ date: December 29, 2020 03:00 PM
 thumbnail: digital-binary-data-microchip-with-glow-circuit-board.jpg
 ---
 
-The network architecture planned for the Fosshost Arm-64 deployment is a little different from a conventional "cloud" virtualization system: we have very little layer 3 infrastructure. Instead, the network relies on a large layer 2 domain. Each server acts as both a hypervisor and router, and operates independently of the rest of the network. PoPs can be as small as a single 1U machine or as large as multiple racks, but the servers are all set up identically. On the network side, the servers sit behind a global anycast network with internal layer 2 forwarding in a full mesh, all encapsulated in an encrypted overlay spanning layer 3 and announced to the Internet with BGP.
+The network architecture planned for the Fosshost AArch64 deployment is a little different from a conventional "cloud" virtualization system: we have very little layer 3 infrastructure. Instead, the network relies on a large layer 2 domain. Each server acts as both a hypervisor and router, and operates independently of the rest of the network. PoPs can be as small as a single 1U machine or as large as multiple racks, but the servers are all set up identically. On the network side, the servers sit behind a global anycast network with internal layer 2 forwarding in a full mesh, all encapsulated in an encrypted overlay spanning layer 3 and announced to the Internet with BGP.
 
 Each server has four general layers:
 - Virtualization: kvm + qemu + libvirt
@@ -37,4 +37,4 @@ We typically like to avoid large layer 2 domains because BUM (Broadcast, Unknown
 
 All in all, our infrastructure plan is still under development and more than a little unconventional. It's also a constantly evolving process and subject to change, so stay tuned to the blog to learn more about the latest updates.
 
-If you have any comments, questions or other feedback about this post, feel free to reach out, and I'll be glad to talk to you more about it.
+If you have any comments, questions or other feedback about this post, feel free to reach out!
