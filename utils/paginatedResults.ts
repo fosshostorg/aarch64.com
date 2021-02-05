@@ -13,11 +13,9 @@ const paginatedResults = (page) => {
   let pages = [...Array(totalPages !== 0 ? totalPages : 1)].map(
     (k, i) => i + 1
   );
-  console.log(pages);
   let prev = pages.indexOf(page - 1) !== -1 ? page - 1 : null;
   let next = pages.indexOf(page + 1) !== -1 ? page + 1 : null;
   let last = pages[pages.length - 1] ? pages[pages.length - 1] : 1;
-  console.log(prev, next, last);
 
   const startIndex = (page - 1) * LIMIT;
   const endIndex = page * LIMIT;

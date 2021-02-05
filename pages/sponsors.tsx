@@ -17,7 +17,7 @@ const Sponsors = () => (
           <div className={styles.sponsor} id={sponsor.id} key={sponsor.id}>
             <div className={styles.logo}>
               <img
-                src={`/sponsors/${sponsor.img}`}
+                src={require(`../public/sponsors/${sponsor.img}`)}
                 alt={`${sponsor.name} Logo`}
                 className={styles[`${sponsor.id}`]}
               />

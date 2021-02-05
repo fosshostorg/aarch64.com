@@ -5,9 +5,17 @@
       <link>https://arm-64.com/blog</link>
       <description>Daily blog run by experts about the challenges of planning, coordinating and managing 50u of Arm hardware in multiple, global locations.</description>
       <language>en</language>
-      <lastBuildDate>Sun, 10 Jan 2021 18:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 23 Jan 2021 17:30:00 GMT</lastBuildDate>
       <atom:link href="https://arm-64.com/rss.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://arm-64.com/post/well-be-back-in-a-moment</guid>
+    <title>We'll be back in a moment</title>
+    <link>https://arm-64.com/post/well-be-back-in-a-moment</link>
+    <description>Apologies for our absence of blog posts. We've been busy planning, and working behind the scenes</description>
+    <pubDate>Sat, 23 Jan 2021 17:30:00 GMT</pubDate>
+  </item>
+
   <item>
     <guid>https://arm-64.com/post/featured-post-webnx</guid>
     <title>Featured Sponsor - WebNX</title>
@@ -15,15 +23,15 @@
     <description>#### Welcome to our third post in a series of blog posts about our amazing sponsors
 
 Today's featured [sponsor](https://arm-64. com/sponsors) is [WebNX](https://webnx</description>
-    <pubDate>Sun, 10 Jan 2021 18:00:00 GMT</pubDate>
+    <pubDate>Sun, 10 Jan 2021 12:30:00 GMT</pubDate>
   </item>
 
   <item>
-    <guid>https://arm-64.com/post/arm-holdings</guid>
+    <guid>https://arm-64.com/post/talking-to-arm-limited</guid>
     <title>Beginning of talks with Arm Limited</title>
-    <link>https://arm-64.com/post/arm-holdings</link>
+    <link>https://arm-64.com/post/talking-to-arm-limited</link>
     <description>In our endeavour to give an edge to the open-source community in the Arm world with the Arm-64 project, we have gathered many sponsors, interest from projects and individuals, and volunteers. This is allowing us to advance our project and, hopefully soon, provide Arm-as-Service to the FOSS community</description>
-    <pubDate>Sat, 09 Jan 2021 21:00:00 GMT</pubDate>
+    <pubDate>Sat, 09 Jan 2021 15:30:00 GMT</pubDate>
   </item>
 
   <item>
@@ -31,7 +39,7 @@ Today's featured [sponsor](https://arm-64. com/sponsors) is [WebNX](https://webn
     <title>Thomas Markey gives interview with IMakeFOSS</title>
     <link>https://arm-64.com/post/thomas-interviewed-by-imakefoss</link>
     <description>#### Thomas Markey gives interview to IMakeFOSS, giving a voice to FOSS projects around the world. Every week we hand the mic to a new contributor</description>
-    <pubDate>Fri, 08 Jan 2021 20:00:00 GMT</pubDate>
+    <pubDate>Fri, 08 Jan 2021 14:30:00 GMT</pubDate>
   </item>
 
   <item>
@@ -41,7 +49,7 @@ Today's featured [sponsor](https://arm-64. com/sponsors) is [WebNX](https://webn
     <description>#### Welcome to our second post in a series of blog posts about our incredible sponsors
 
 Today, January 4th 2021, is an important day for many of you: the start of a new working year. Depending on your timezone, you may have either finished it or are only starting your day</description>
-    <pubDate>Mon, 04 Jan 2021 21:00:00 GMT</pubDate>
+    <pubDate>Mon, 04 Jan 2021 15:30:00 GMT</pubDate>
   </item>
 
   <item>
@@ -49,7 +57,7 @@ Today, January 4th 2021, is an important day for many of you: the start of a new
     <title>Comments are live on Arm-64 blog posts</title>
     <link>https://arm-64.com/post/blog-post-comments</link>
     <description>As we continue to write about our journey into the Arm, we decided we wanted an easier way to get feedback from our readers. To that end, we now have a comments section in every blog post, so you can leave your feedback</description>
-    <pubDate>Sat, 02 Jan 2021 22:00:00 GMT</pubDate>
+    <pubDate>Sat, 02 Jan 2021 16:30:00 GMT</pubDate>
   </item>
 
   <item>
@@ -61,7 +69,7 @@ Today, January 4th 2021, is an important day for many of you: the start of a new
 First and foremost, the Fosshost team wishes you a happy new year!
 
 Our first featured [sponsor](https://arm-64. com/sponsors) is HiveDC, a Tier III+ colocation data center based in Montreal, Canada, and one of the leading choices for per unit and cabinet server colocation in the country</description>
-    <pubDate>Fri, 01 Jan 2021 16:45:00 GMT</pubDate>
+    <pubDate>Fri, 01 Jan 2021 11:15:00 GMT</pubDate>
   </item>
 
   <item>
@@ -69,7 +77,7 @@ Our first featured [sponsor](https://arm-64. com/sponsors) is HiveDC, a Tier III
     <title>Infrastructure Overview</title>
     <link>https://arm-64.com/post/infrastructure-overview</link>
     <description>The network architecture planned for the Fosshost Arm-64 deployment is a little different from a conventional "cloud" virtualization system: we have very little layer 3 infrastructure. Instead, the network relies on a large layer 2 domain</description>
-    <pubDate>Tue, 29 Dec 2020 15:00:00 GMT</pubDate>
+    <pubDate>Tue, 29 Dec 2020 09:30:00 GMT</pubDate>
   </item>
 
   <item>
@@ -77,7 +85,7 @@ Our first featured [sponsor](https://arm-64. com/sponsors) is HiveDC, a Tier III
     <title>RSS feeds are now live</title>
     <link>https://arm-64.com/post/rss-feed</link>
     <description>#### Arm-64. com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost</description>
-    <pubDate>Sat, 26 Dec 2020 21:00:00 GMT</pubDate>
+    <pubDate>Sat, 26 Dec 2020 15:30:00 GMT</pubDate>
   </item>
 
   <item>
@@ -85,7 +93,7 @@ Our first featured [sponsor](https://arm-64. com/sponsors) is HiveDC, a Tier III
     <title>Overview of donated hardware</title>
     <link>https://arm-64.com/post/overview-of-donated-hardware</link>
     <description>#### Arm-64. com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost</description>
-    <pubDate>Thu, 24 Dec 2020 11:00:00 GMT</pubDate>
+    <pubDate>Thu, 24 Dec 2020 05:30:00 GMT</pubDate>
   </item>
 
   <item>
@@ -93,7 +101,7 @@ Our first featured [sponsor](https://arm-64. com/sponsors) is HiveDC, a Tier III
     <title>Now accepting pre-applications for Arm64-as-a-service</title>
     <link>https://arm-64.com/post/accepting-preapplications</link>
     <description>#### Arm-64. com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost</description>
-    <pubDate>Wed, 23 Dec 2020 19:10:00 GMT</pubDate>
+    <pubDate>Wed, 23 Dec 2020 13:40:00 GMT</pubDate>
   </item>
 
   <item>
@@ -101,7 +109,7 @@ Our first featured [sponsor](https://arm-64. com/sponsors) is HiveDC, a Tier III
     <title>Welcome to Arm-64.com</title>
     <link>https://arm-64.com/post/welcome-to-arm-64</link>
     <description>#### Arm-64. com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost</description>
-    <pubDate>Sun, 20 Dec 2020 19:18:00 GMT</pubDate>
+    <pubDate>Sun, 20 Dec 2020 13:48:00 GMT</pubDate>
   </item>
 
     </channel>

@@ -12,7 +12,10 @@ const Sponsors = () => (
           key={sponsor.id}
           rel="noopener noreferrer"
         >
-          <img src={`/sponsors/${sponsor.img}`} alt={sponsor.name} />
+          <img
+            src={require(`../../public/sponsors/${sponsor.img}`)}
+            alt={sponsor.name}
+          />
         </a>
       ))}
     </div>

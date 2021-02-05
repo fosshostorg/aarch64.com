@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
           name="description"
           content="Daily blog, run by experts, on the challenges of planning, coordinating and managing 50 units of Arm-based hardware in multiple, global locations."
         />
-        <link rel="icon" href="/favicon.png" />
+        {/* <link rel="icon" href="/favicon.png" /> */}
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <script
           async

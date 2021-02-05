@@ -38,10 +38,23 @@ const Post = ({ frontmatter, markdownBody, shareUrl }) => (
     <Header />
     <div className={styles.blogPost}>
       <div className={styles.thumbnail}>
-        <img
-          src={`/thumbnails/${frontmatter.thumbnail}`}
-          alt="Post Thumbnail"
-        />
+        <picture>
+          <source
+            srcSet={require(`../../public/thumbnails/${frontmatter.thumbnail}?webp`)}
+            type="image/webp"
+          />
+          <source
+            srcSet={require(`../../public/thumbnails/${frontmatter.thumbnail}`)}
+            type={`image/${
+              frontmatter.thumbnail.includes(".png") ? "png" : "jpeg"
+            }`}
+          />
+          <img
+            src={require(`../../public/thumbnails/${frontmatter.thumbnail}`)}
+            alt={`Thumbnail for ${frontmatter.title}`}
+            loading="lazy"
+          />
+        </picture>
       </div>
       <main className={styles.post}>
         <div className={styles.shareButtons}>
