@@ -34,14 +34,6 @@ const Sponsors: Sponsor[] = [
       "At WebNX, we pride ourselves on offering Enterprise Internet Infrastructure Solutions at affordable prices. We combine top quality components from the top manufacturers with our 100% self-operated data centers, and our Route Optimized Networks, to bring you IT values unlike anyone else. We offer Dedicated Servers and Colocation Options. With over 15 years industry experience, your enterprise is in good hands with WebNX Internet Services.",
   },
   {
-    id: "inferno",
-    img: "inferno.png",
-    name: "Inferno Communications",
-    link: "https://infernocomms.com/",
-    description:
-      "Inferno Communications is a managed service IT provider that operates predominantly within the United Kingdom, providing dedicated and colocation services from Digital Realty Facilities, including Interxion London.",
-  },
-  {
     id: "equinix",
     img: "equinix.svg",
     name: "Equinix Metal",
