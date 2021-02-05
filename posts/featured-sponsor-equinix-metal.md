@@ -12,7 +12,7 @@ We are in the process of making some big changes, but today's blog post won't be
 
 Equinix Metal is a branch of Equinix dedicated to bare metal infrastructure. They operate several data centers around the world, from New York to Osaka and Sydney to Singapore, just to name a few.
 
-We will be working with them through [WorksOnArm](https://www.worksonarm.com/), an initiative created by Equinix and Arm Limited to bring Armv8 bare metal infrastructure to the data center and make it available to the open-source community. Our collaboration will include the donation of 5 Armv8 units, to be hosted by Equinix Metal.
+We will be working with them through [WorksOnArm](https://www.worksonarm.com/), an initiative created by Equinix and Arm Limited to bring Armv8 bare metal infrastructure to the data center and make it available to the open-source community. Our collaboration will include a donation, from Equinix Metal, of 5 Armv8 units, and they will support our ecosystem.
 
 This is possible thanks to Ed Vielmetti. To him and everyone at WorksOnArm and Equinix, thank you so much for your trust in us.
 
