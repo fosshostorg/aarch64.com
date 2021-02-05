@@ -1,6 +1,6 @@
 ---
 title: Featured Sponsor - Equinix Metal
-date: February 02, 2021 09:00 AM
+date: February 2, 2021 09:00 AM
 summary: Welcome to the fourth in a series of blog posts about our incredible sponsors
 author: bruno
 thumbnail: equinix.jpg
