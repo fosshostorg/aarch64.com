@@ -12,12 +12,12 @@ import fs from "fs";
 const Blog = ({ results }) => (
   <>
     <Head>
-      <title>Blog | Arm-64.com</title>
+      <title>Blog | AArch64.com</title>
       <link
         rel="alternate"
         type="application/rss+xml"
         title="RSS feed for blog posts"
-        href="https://arm-64.com/feed.xml"
+        href="https://aarch64.com/feed.xml"
       />
     </Head>
     <Header />
