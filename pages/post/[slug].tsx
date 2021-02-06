@@ -24,7 +24,7 @@ const Post = ({ frontmatter, markdownBody, shareUrl }) => (
       <meta property="og:description" content={frontmatter.description} />
       <meta
         property="og:image"
-        content={`https://arm-64.com/thumbnails/${frontmatter.thumbnail}`}
+        content={`https://aarch64.com/thumbnails/${frontmatter.thumbnail}`}
       />
       <meta property="twitter:card" content="summary_large_image" />
       <meta property="twitter:url" content={shareUrl} />
@@ -32,7 +32,7 @@ const Post = ({ frontmatter, markdownBody, shareUrl }) => (
       <meta property="twitter:description" content={frontmatter.description} />
       <meta
         property="twitter:image"
-        content={`https://arm-64.com/thumbnails/${frontmatter.thumbnail}`}
+        content={`https://aarch64.com/thumbnails/${frontmatter.thumbnail}`}
       />
     </Head>
     <Header />
@@ -145,7 +145,7 @@ export const getStaticProps = async (context) => {
       .join(". ");
   }
 
-  const shareUrl = "https://arm-64.com/post/" + slug;
+  const shareUrl = "https://aarch64.com/post/" + slug;
 
   return {
     props: {
