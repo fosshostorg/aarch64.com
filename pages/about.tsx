@@ -68,14 +68,6 @@ const About = () => (
         >
           WebNX
         </a>
-        ,{" "}
-        <a
-          href="https://infernocomms.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Inferno Communications
-        </a>
         , and{" "}
         <a
           href="https://www.packetframe.com/"
