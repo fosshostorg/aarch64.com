@@ -4,7 +4,7 @@ const generateRSSItem = (post: Post): string => `
   <item>
     <guid>https://aarch64.com/post/${post.slug}</guid>
     <title>${post.title}</title>
-    <link>https://aarch64.comm/post/${post.slug}</link>
+    <link>https://aarch64.com/post/${post.slug}</link>
     <description>${post.description}</description>
     <pubDate>${new Date(post.date).toUTCString()}</pubDate>
   </item>
