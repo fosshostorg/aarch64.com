@@ -10,7 +10,7 @@ const Press = () => (
       <p>
         We are always interested in talking to like minded groups, individuals,
         organizations, journalists, and ecosystems that are interested in the
-        work that we do to enable Arm-64 in the data center environment.
+        work that we do to enable Arm-based hardware in the data center environment.
       </p>
       <p>
         Our bloggers will consider talks, attending virtual events, sharing
