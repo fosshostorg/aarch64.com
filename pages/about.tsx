@@ -13,16 +13,16 @@ const About = () => (
     <main className={styles.about}>
       <h1>About AArch64.com</h1>
       <p>
-        AArch64.com is a blog operated by Fosshost, a non-profit hosting provider
+        AArch64.com is a community operated by Fosshost, a non-profit hosting provider
         that supports hundreds of open-source projects with cloud computing
         services. This website was created to track the development and progress
-        of the Fosshost Arm build project. We will provide daily updates on
-        our journey, intended to be both informative and practical, and an
+        of the Fosshost Arm build project. We provide daily updates on
+        our journey, designed to both informative, practical, and provide an
         insight into the Arm world.
       </p>
       <p>
         Our philosophy is to go further together, providing open-source projects
-        and communities with an exclusive world-class and tailored hosting
+        and communities with a world-class and tailored hosting
         experience. To achieve this, we work with industry leaders, influential
         organizations, and individuals who promote the Arm ecosystem. What will
         you build, test or optimize on Arm technology?
