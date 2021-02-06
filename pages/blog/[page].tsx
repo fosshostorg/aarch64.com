@@ -10,7 +10,7 @@ import Pagination from "@/components/BlogPage/Pagination";
 const Blog = ({ results, page }) => (
   <>
     <Head>
-      <title>Blog | Arm-64.com</title>
+      <title>Blog | AArch64.com</title>
     </Head>
     <Header />
     <main className={styles.blogPage}>
