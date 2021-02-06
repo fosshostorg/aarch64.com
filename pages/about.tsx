@@ -89,8 +89,8 @@ const About = () => (
       <p>
         Following this contact, we have very generously been awarded 50 units of
         Armv8 32 cores (in a single chip), clocked at 3.3GHz, Lenovo machines.
-        These machines are currently in the process of being shipped from the
-        United States of America to their respective new home.
+        These machines are currently in the process of being shipped from Santa
+        Clara, CA USA to their respective new home.
       </p>
       <p>
         The last few months have been very busy, working behind the scenes to
