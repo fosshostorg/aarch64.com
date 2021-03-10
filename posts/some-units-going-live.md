@@ -3,6 +3,7 @@ title: Some Arm-based units will go live very soon
 author: bruno
 date: March 9, 2021 11:30 PM
 summary: Some units are expected to go live in the next 4 weeks
+thumbnail: countdown.jpg
 ---
 
 Quoting Professor Hubert J. Farnsworth, from Futurama: «Good news, everyone». We are very pleased to announce that we will have some donated Arm-based units operational in the next 4 weeks. This means that the 9 applications currently in our backlog will start getting access to the hardware in a phased manner.

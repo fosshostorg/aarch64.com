@@ -5,9 +5,17 @@
       <link>https://aarch64.com/blog</link>
       <description>Daily blog, run by experts, on the challenges of planning, coordinating and managing 50 units of Arm-based hardware in multiple, global locations.</description>
       <language>en</language>
-      <lastBuildDate>Fri, 12 Feb 2021 15:30:00 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 09 Mar 2021 23:30:00 GMT</lastBuildDate>
       <atom:link href="https://aarch64.com/rss.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://aarch64.com/post/some-units-going-live</guid>
+    <title>Some Arm-based units will go live very soon</title>
+    <link>https://aarch64.com/post/some-units-going-live</link>
+    <description>Quoting Professor Hubert J. Farnsworth, from Futurama: «Good news, everyone»</description>
+    <pubDate>Tue, 09 Mar 2021 23:30:00 GMT</pubDate>
+  </item>
+
   <item>
     <guid>https://aarch64.com/post/fosshost-invited-to-podcast</guid>
     <title>Fosshost invited to The Business of Cloud Native podcast</title>
