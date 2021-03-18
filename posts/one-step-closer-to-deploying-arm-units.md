@@ -7,3 +7,5 @@ thumbnail: arm-units-are-coming.jpeg
 ---
 
 Yesterday, the 17th of March, our [CEO](https://fosshost.org/news/fosshost-organizational-changes/) and founder, Thomas Markey, received a notification from [Ampere Computing](https://amperecomputing.com/) about the shipment of 30 units of Arm-based hardware. We're one step closer to get the hardware deployed and ready to serve the FOSS community. Stay tuned for more updates.
+
+##### Please take the opportunity to [follow us on Twitter](https://twitter.com/fosshostorg) and share this web page with educational groups, Arm fans, and like-minded individuals.
