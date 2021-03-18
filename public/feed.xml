@@ -5,16 +5,24 @@
       <link>https://aarch64.com/blog</link>
       <description>Daily blog, run by experts, on the challenges of planning, coordinating and managing 50 units of Arm-based hardware in multiple, global locations.</description>
       <language>en</language>
-      <lastBuildDate>Tue, 16 Mar 2021 01:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 18 Mar 2021 00:30:00 GMT</lastBuildDate>
       <atom:link href="https://aarch64.com/rss.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://aarch64.com/post/one-step-closer-to-deploying-arm-units</guid>
+    <title>We are one step closer to get the Arm-based units deployed</title>
+    <link>https://aarch64.com/post/one-step-closer-to-deploying-arm-units</link>
+    <description>Yesterday, the 17th of March, our [CEO](https://fosshost. org/news/fosshost-organizational-changes/), Thomas Markey, was notified by [Ampere Computing](https://amperecomputing</description>
+    <pubDate>Thu, 18 Mar 2021 00:30:00 GMT</pubDate>
+  </item>
+
   <item>
     <guid>https://aarch64.com/post/featured-sponsor-packetframe</guid>
     <title>Featured Sponsor - Packetframe</title>
     <link>https://aarch64.com/post/featured-sponsor-packetframe</link>
     <description>#### Welcome to our fifth post in a series of blog posts about our amazing sponsors
 
-While we wait for some of our Arm-based units to [go live](https://aarch64. com/post/some-units-going-live), we would like to talk to you about one of your sponsors: [Packetframe](https://packetframe</description>
+While we wait for some of our Arm-based units to [go live](https://aarch64. com/post/some-units-going-live) [we're almost there!], we would like to talk to you about one of your sponsors: [Packetframe](https://packetframe</description>
     <pubDate>Tue, 16 Mar 2021 01:00:00 GMT</pubDate>
   </item>
 
