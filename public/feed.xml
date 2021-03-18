@@ -5,14 +5,22 @@
       <link>https://aarch64.com/blog</link>
       <description>Daily blog, run by experts, on the challenges of planning, coordinating and managing 50 units of Arm-based hardware in multiple, global locations.</description>
       <language>en</language>
-      <lastBuildDate>Thu, 18 Mar 2021 00:30:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 18 Mar 2021 22:00:00 GMT</lastBuildDate>
       <atom:link href="https://aarch64.com/rss.xml" rel="self" type="application/rss+xml"/>
       
   <item>
+    <guid>https://aarch64.com/post/deployment-eta</guid>
+    <title>Deployment ETA</title>
+    <link>https://aarch64.com/post/deployment-eta</link>
+    <description>As you already [know](https://aarch64. com/post/one-step-closer-to-deploying-arm-units), the first batch of Arm-based hardware is shipping to us</description>
+    <pubDate>Thu, 18 Mar 2021 22:00:00 GMT</pubDate>
+  </item>
+
+  <item>
     <guid>https://aarch64.com/post/one-step-closer-to-deploying-arm-units</guid>
-    <title>We are one step closer to get the Arm-based units deployed</title>
+    <title>We're one step closer to get the Arm-based units deployed</title>
     <link>https://aarch64.com/post/one-step-closer-to-deploying-arm-units</link>
-    <description>Yesterday, the 17th of March, our [CEO](https://fosshost. org/news/fosshost-organizational-changes/), Thomas Markey, was notified by [Ampere Computing](https://amperecomputing</description>
+    <description>Yesterday, 17th of March, our [CEO](https://fosshost. org/news/fosshost-organizational-changes/) and founder, Thomas Markey, received a notification from two of our sponsors, [Ampere Computing](https://amperecomputing</description>
     <pubDate>Thu, 18 Mar 2021 00:30:00 GMT</pubDate>
   </item>
 
