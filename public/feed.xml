@@ -5,14 +5,22 @@
       <link>https://aarch64.com/blog</link>
       <description>Daily blog, run by experts, on the challenges of planning, coordinating and managing 50 units of Arm-based hardware in multiple, global locations.</description>
       <language>en</language>
-      <lastBuildDate>Wed, 24 Mar 2021 23:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 30 Mar 2021 14:00:00 GMT</lastBuildDate>
       <atom:link href="https://aarch64.com/rss.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://aarch64.com/post/sneak-peek</guid>
+    <title>A sneak peek at AArch64's dashboard</title>
+    <link>https://aarch64.com/post/sneak-peek</link>
+    <description>Our work to deploy the first batch of Arm-based units continues to spear ahead. Although there is still a lot to do, we are close to being ready to make the first units available to already approved projects</description>
+    <pubDate>Tue, 30 Mar 2021 14:00:00 GMT</pubDate>
+  </item>
+
   <item>
     <guid>https://aarch64.com/post/first-units-almost-ready</guid>
     <title>The first Arm-based units are almost ready</title>
     <link>https://aarch64.com/post/first-units-almost-ready</link>
-    <description>The first batch of Arm-based units has arrived at their first destination. We will now start the deployment process and keep you updated as things develop</description>
+    <description>The first batch of Arm-based units has arrived at the first destination. We will now start the deployment process and keep you updated as things develop</description>
     <pubDate>Wed, 24 Mar 2021 23:00:00 GMT</pubDate>
   </item>
 
