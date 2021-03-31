@@ -6,7 +6,7 @@ date: March 31, 2021 09:30 PM
 thumbnail: units-kent-2.jpg
 ---
 
-Yesterday was Unboxing Day for Fosshost and an important milestone in deploying our Arm-based hardware. Thomas, our CEO, spent part of his day dealing with cardboard, tape, and foam, to get the units ready to ship today to the CustodianDC data center in Kent. There, they will rack and stack the hardware, and install the operating system.
+Yesterday was Unboxing Day for Fosshost and an important milestone in deploying our Arm-based hardware. Thomas, our CEO, spent part of his day dealing with cardboard, tape, and foam, to get the units ready to ship today to the CustodianDC data center in Kent. There, our volunteers will rack and stack the hardware, and install the operating system.
 
 <img src="../thumbnails/30u-delivery.png" alt="shipping invoice">
 <img src="../thumbnails/unboxing-day.jpg" alt="unboxing day">
