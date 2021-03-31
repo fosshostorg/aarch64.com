@@ -11,7 +11,7 @@ Yesterday was Unboxing Day for Fosshost and an important milestone in deploying 
 <img src="../thumbnails/30u-delivery.png" alt="shipping invoice">
 <img src="../thumbnails/unboxing-day.jpg" alt="unboxing day">
 
-After passing all the tests, the units will then be added to the AArch64.com cluster and will be available in our Dashboard in a few hours. Full IPv6 support will be available for these units.
+After passing all the tests, the units will then be added to the AArch64.com cluster and will be accessible in our Dashboard in a few hours. Full IPv6 support will be available for these units.
 
 <img src="../thumbnails/units-kent-1.jpg" alt="units going to kent">
 
