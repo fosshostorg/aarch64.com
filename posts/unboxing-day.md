@@ -1,5 +1,5 @@
 ---
-title: Unboxing Day
+title: Unboxing and Racking Days
 author: bruno
 summary: Yesterday was the day to get the 30 Arm-based units out of their packages and getting them ready for the data center
 date: March 31, 2021 09:30 PM
