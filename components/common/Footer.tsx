@@ -35,7 +35,7 @@ const Footer = () => (
           <span>RSS Feed</span>
         </a>
         <a
-          href="https://github.com/fosshostorg/arm-64.com"
+          href="https://github.com/fosshostorg/aarch64.com"
           target="_blank"
           rel="noopener noreferrer"
         >
