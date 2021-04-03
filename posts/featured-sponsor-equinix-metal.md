@@ -8,7 +8,7 @@ thumbnail: equinix.jpg
 
 #### Welcome to our fourth post in a series of blog posts about our amazing sponsors
 
-We are in the process of making some big changes, but today's blog post won't be about them. Instead, we will focus on one of our incredible [sponsors](https://arm-64.com/sponsors), [Equinix Metal](https://metal.equinix.com).
+We are in the process of making some big changes, but today's blog post won't be about them. Instead, we will focus on one of our incredible [sponsors](https://aarch64.com/sponsors), [Equinix Metal](https://metal.equinix.com).
 
 Equinix Metal is a branch of Equinix dedicated to bare metal infrastructure. They operate several data centers around the world, from New York to Osaka and Sydney to Singapore, just to name a few.
 

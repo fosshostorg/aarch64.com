@@ -8,7 +8,7 @@ thumbnail: first-racking-day/servers2.jpg
 
 On Wednesday, Thomas and Connor started the process of racking the hardware, with Nate helping remotely with the configuration. This task is not completed yet, and next week they will visit the CustodianDC data center in Kent again to continue the work.
 
-While on the road and on-premise, they took the change to take a few pictures which we share here with you below.
+While on the road and on-premise, they took the opportunity to take a few pictures which we share here with you below.
 
 <img src="../thumbnails/first-racking-day/trip.jpg" alt="our team on the road">
 <pre>our team on the road</pre>

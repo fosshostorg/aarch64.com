@@ -10,7 +10,7 @@ thumbnail: hivedc-montreal.jpg
 
 First and foremost, the Fosshost team wishes you a happy new year!
 
-Our first featured [sponsor](https://arm-64.com/sponsors) is HiveDC, a Tier III+ colocation data center based in Montreal, Canada, and one of the leading choices for per unit and cabinet server colocation in the country.
+Our first featured [sponsor](https://aarch6464.com/sponsors) is HiveDC, a Tier III+ colocation data center based in Montreal, Canada, and one of the leading choices for per unit and cabinet server colocation in the country.
 
 HiveDC features, among many things, a 99% green data center and an uptime of 100%. In 2019, they won the Data Center Location of the Year Award.
 
