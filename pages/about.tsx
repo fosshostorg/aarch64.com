@@ -16,7 +16,7 @@ const About = () => (
         AArch64.com is a community operated by Fosshost, a non-profit hosting provider
         that supports hundreds of open-source projects with cloud computing
         services. This website was created to track the development and progress
-        of the Fosshost Arm build project. We provide daily updates on
+        of the Fosshost Arm-based build project. We provide daily updates on
         our journey, designed to both informative, practical, and provide an
         insight into the Arm world.
       </p>
@@ -87,7 +87,7 @@ const About = () => (
         the AArch64 project.
       </p>
       <p>
-        Following this contact, we have very generously been awarded 50 units of
+        Following this contact, we have very generously been awarded 55 units of
         Armv8 32 cores (in a single chip), clocked at 3.3GHz, Lenovo machines.
         These machines are currently in the process of being shipped from Santa
         Clara, CA USA to their respective new home.

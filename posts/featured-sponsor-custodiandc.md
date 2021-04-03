@@ -10,7 +10,7 @@ thumbnail: custodiandcbirdseyeview.jpg
 
 Today, January 4th 2021, is an important day for many of you: the start of a new working year. Depending on your timezone, you may have either finished it or are only starting your day.
 
-Equally important, it is a critical day for AArch64.com as we continue to plan, coordinate, and manage our enablement of 50 units of Arm-based hardware. That, however, won't be the focus of this blog post.
+Equally important, it is a critical day for AArch64.com as we continue to plan, coordinate, and manage our enablement of 55 units of Arm-based hardware. That, however, won't be the focus of this blog post.
 
 Today's post will be regarding [CustodianDC](https://aarch64.com/sponsors), an award-winning and eco-friendly data center based in Kent, United Kingdom, and one ideally situated 30 minutes southeast of London, outside the high-risk zones but still within easy reach of London and Kent's surrounding areas.
 

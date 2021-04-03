@@ -48,7 +48,7 @@ const Policy = () => (
         We do have sponsors who provide colocation facilities, not but limited
         to rack space, power, connectivity, cooling, security and associated
         services. We list sponsors on our website as those who help colocate
-        fosshost / Arm64 hardware. We have agreements with all of our sponsors
+        Fosshost AArch64 hardware.. We have agreements with all of our sponsors
         that outline the terms of the service they provide.
       </p>
       <p>
@@ -67,7 +67,7 @@ const Policy = () => (
       </p>
       <p>
         Applications for our services are subject to the <a href="https://fosshost.org/legal">Terms and Conditions</a>.
-        Arm-64.com is purely an informational website only.
+        AArch64.com is purely an informational website only.
       </p>
       <p>
         We do operate analytics tracking on this website to understand our
