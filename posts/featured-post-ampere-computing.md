@@ -1,6 +1,6 @@
 ---
 title: Featured Sponsor - Ampere Computing
-date: April 04, 2021 09:00 AM
+date: April 03, 2021 06:00 PM
 summary: Welcome to our fifth post in a series of blog posts about our incredible sponsors
 author: bruno
 thumbnail: ampere.jpg
