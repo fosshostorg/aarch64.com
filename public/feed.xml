@@ -5,9 +5,25 @@
       <link>https://aarch64.com/blog</link>
       <description>Daily blog, run by experts, on the challenges of planning, coordinating and managing 50 units of Arm-based hardware in multiple, global locations.</description>
       <language>en</language>
-      <lastBuildDate>Sat, 03 Apr 2021 15:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 28 Apr 2021 20:00:00 GMT</lastBuildDate>
       <atom:link href="https://aarch64.com/rss.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://aarch64.com/post/network-changes-overview</guid>
+    <title>Network changes overview</title>
+    <link>https://aarch64.com/post/network-changes-overview</link>
+    <description>On December 29, 2020, I [wrote](https://aarch64. com/post/infrastructure-overview) about our unconventional network setup with a large layer 2 mesh</description>
+    <pubDate>Wed, 28 Apr 2021 20:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>https://aarch64.com/post/5-units-custodiandc-ready</guid>
+    <title>5 Arm-based units live at the CustodianDC data center</title>
+    <link>https://aarch64.com/post/5-units-custodiandc-ready</link>
+    <description>On Friday 16th, Thomas finished setting up 5 [1U Lenovo ThinkSystem HR330A eMAG](https://aarch64. com/post/overview-of-donated-hardware) units at the CustodianDC data center, with Nate assisting remotely</description>
+    <pubDate>Mon, 19 Apr 2021 00:00:00 GMT</pubDate>
+  </item>
+
   <item>
     <guid>https://aarch64.com/post/featured-post-ampere-computing</guid>
     <title>Featured Sponsor - Ampere Computing</title>
@@ -15,7 +31,7 @@
     <description>#### Welcome to our fifth post in a series of blog posts about our incredible sponsors
 
 Today's featured [sponsor](https://aarch64. com/sponsors) is [Ampere Computing](https://amperecomputing</description>
-    <pubDate>Sat, 03 Apr 2021 15:00:00 GMT</pubDate>
+    <pubDate>Sat, 03 Apr 2021 17:00:00 GMT</pubDate>
   </item>
 
   <item>
