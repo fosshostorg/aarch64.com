@@ -1,5 +1,5 @@
 ---
-title: AArch64 is now in production, with its own ASN
+title: AArch64 is now in production, using its own ASN
 author: bruno
 date: May 27, 2021 01:00 AM
 thumbnail: pexels-cottonbro-3171837.jpg
