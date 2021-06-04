@@ -21,6 +21,11 @@ const authors: Author[] = [
     id: "bruno",
     img: "bruno.jpg",
   },
+  {
+    name: "Hampton Moore",
+    id: "hampton",
+    img: "hampton.jpg",
+  },
 ];
 
 export default authors;

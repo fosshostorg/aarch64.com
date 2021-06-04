@@ -5,16 +5,22 @@
       <link>https://aarch64.com/blog</link>
       <description>Daily blog, run by experts, on the challenges of planning, coordinating and managing 50 units of Arm-based hardware in multiple, global locations.</description>
       <language>en</language>
-      <lastBuildDate>Thu, 27 May 2021 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 04 Jun 2021 01:00:00 GMT</lastBuildDate>
       <atom:link href="https://aarch64.com/rss.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://aarch64.com/post/aarch64-in-production</guid>
-    <title>AArch64 is now in production, with its own ASN</title>
-    <link>https://aarch64.com/post/aarch64-in-production</link>
-    <description>### We are happy to announce that AArch64 has entered production. If you have an Arm-based Open-Source project and/or an interest in Arm-based hardware, please apply
+    <guid>https://aarch64.com/post/aarch64-budgeting-system-for-fair-resource-usage</guid>
+    <title>AArch64's budgeting system for fair resource usage</title>
+    <link>https://aarch64.com/post/aarch64-budgeting-system-for-fair-resource-usage</link>
+    <description>To guarantee fair resource utilization by our tenants, we implemented a budgeting system on AArch64. Previously, our platform had no limit on the number of resources a project could use when creating virtual machines (VMs) during the beta period</description>
+    <pubDate>Fri, 04 Jun 2021 01:00:00 GMT</pubDate>
+  </item>
 
-We are extremely excited to announce that our AArch64 platform has entered production! To everyone who helped develop and test the platform, you have our deepest respecy and acknowledgment</description>
+  <item>
+    <guid>https://aarch64.com/post/aarch64-in-production</guid>
+    <title>AArch64 is now in production, using its own ASN</title>
+    <link>https://aarch64.com/post/aarch64-in-production</link>
+    <description>We are extremely excited to announce that our AArch64 platform has entered production! To everyone who helped develop and test the platform, you have our deepest respecy and acknowledgment. A special word of appreciation to [Rocky Linux](https://rockylinux</description>
     <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
   </item>
 
