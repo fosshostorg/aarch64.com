@@ -21,12 +21,12 @@ const NavBar = () => (
         <a className={styles.item}>About</a>
       </Link>
       <a
-        href="https://fosshost.org/apply"
+        href="https://console.aarch64.com"
         target="_blank"
         rel="noopener noreferrer"
         className={button.button}
       >
-        Apply Now
+        AArch64 Console
       </a>
     </div>
   </nav>
