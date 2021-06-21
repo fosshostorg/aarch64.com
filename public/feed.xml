@@ -5,12 +5,20 @@
       <link>https://aarch64.com/blog</link>
       <description>Daily blog, run by experts, on the challenges of planning, coordinating and managing 50 units of Arm-based hardware in multiple, global locations.</description>
       <language>en</language>
-      <lastBuildDate>Fri, 04 Jun 2021 01:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 21 Jun 2021 17:00:00 GMT</lastBuildDate>
       <atom:link href="https://aarch64.com/rss.xml" rel="self" type="application/rss+xml"/>
       
   <item>
+    <guid>https://aarch64.com/post/is-arm-architecture-the-future</guid>
+    <title>Is ARM the architecture of the future?</title>
+    <link>https://aarch64.com/post/is-arm-architecture-the-future</link>
+    <description>Here at Fosshost, we are big fans of the ARM architecture. Our service, AArch64, is proof of that</description>
+    <pubDate>Mon, 21 Jun 2021 17:00:00 GMT</pubDate>
+  </item>
+
+  <item>
     <guid>https://aarch64.com/post/aarch64-budgeting-system-for-fair-resource-usage</guid>
-    <title>AArch64's budgeting system for fair resource usage</title>
+    <title>AArch64 budgeting system for fair resource usage</title>
     <link>https://aarch64.com/post/aarch64-budgeting-system-for-fair-resource-usage</link>
     <description>To guarantee fair resource utilization by our tenants, we implemented a budgeting system on AArch64. Previously, our platform had no limit on the number of resources a project could use when creating virtual machines (VMs) during the beta period</description>
     <pubDate>Fri, 04 Jun 2021 01:00:00 GMT</pubDate>
