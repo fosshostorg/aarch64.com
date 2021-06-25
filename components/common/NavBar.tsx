@@ -20,6 +20,12 @@ const NavBar = () => (
       <Link href="/about">
         <a className={styles.item}>About</a>
       </Link>
+            <Link href="https://fosshost.org/apply">
+        <a className={styles.item}>Apply</a>
+      </Link>
+            <Link href="https://fosshost.org/donate">
+        <a className={styles.item}>Donate</a>
+      </Link>
       <a
         href="https://console.aarch64.com"
         target="_blank"
