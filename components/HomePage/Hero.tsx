@@ -6,11 +6,11 @@ const Hero = () => (
     <div className={styles.left}>
       <h1>Our journey of providing Arm-based hosting to the open-source community</h1>
       <p>
-        Daily blog, run by experts, on the challenges of planning, coordinating
-        and managing 55 units of Arm-based hardware in multiple, global
+        Learn about our journey on the challenges of planning, coordinating
+        and managing the deployment of Arm-based hardware to multiple global
         locations.
       </p>
-      <LinkButton href="/blog">Read The Blog</LinkButton>
+      <LinkButton href="/blog">Follow Our Journey</LinkButton>
     </div>
   </main>
 );
