@@ -12,8 +12,7 @@ We wanted to make it easy for the community to be able to apply for our AArch64-
 We are officially taking pre-applications for the service and build requests, will be processed in the order in which they were received.
 
 We make it easy to apply for Arm hosting but it is mandatory that you read our [Eligibility Criteria](https://docs.fosshost.org/en/home/application) before applying, to ensure that you are a good fit. Ensuring you understand our criteria before applying, will save your time and disappointment if not approved.
-  
-Please take the opportunity to [follow us on
-Twitter](https://twitter.com/fosshostorg) and share this web page with educational
+
+##### Please take the opportunity to [follow us on Twitter](https://twitter.com/fosshostorg) and share this web page with educational
 groups, Arm fans, and like-minded individuals.
 

@@ -5,9 +5,17 @@
       <link>https://aarch64.com/blog</link>
       <description>Daily blog, run by experts, on the challenges of planning, coordinating and managing 50 units of Arm-based hardware in multiple, global locations.</description>
       <language>en</language>
-      <lastBuildDate>Mon, 21 Jun 2021 17:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 25 Jun 2021 20:00:00 GMT</lastBuildDate>
       <atom:link href="https://aarch64.com/rss.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://aarch64.com/post/ten-more-Arm-based-units-going-live-very-soon</guid>
+    <title>Ten more Arm-based units going live very soon</title>
+    <link>https://aarch64.com/post/ten-more-Arm-based-units-going-live-very-soon</link>
+    <description>We are so happy to announce we will have ten units of our Arm-based hardware collocated with [Netwise](https://www. netwise</description>
+    <pubDate>Fri, 25 Jun 2021 20:00:00 GMT</pubDate>
+  </item>
+
   <item>
     <guid>https://aarch64.com/post/is-arm-architecture-the-future</guid>
     <title>Is ARM the architecture of the future?</title>
