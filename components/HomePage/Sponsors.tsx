@@ -3,7 +3,7 @@ import sponsors from "@/data/sponsors";
 
 const Sponsors = () => (
   <section className={styles.sponsors}>
-    <h2>SUPPORTED BY</h2>
+    <h2>CORE SPONSORS</h2>
     <div className={styles.list}>
       {sponsors.map((sponsor) => (
         <a
