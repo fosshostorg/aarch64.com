@@ -41,13 +41,13 @@ const Sponsors: Sponsor[] = [
     description:
       "As part of Equinix — the world’s #DigitalInfrastructure company — Equinix Metal provides automated and interconnected bare-metal infrastructure. Formerly Packet, now Equinix Metal™. Ed Vielmetti also runs the Worksonarm.com Project, who we will be working closely with.",
   },
-  {
-    id: "packetframe",
-    img: "packetframe.png",
-    name: "PacketFrame",
-    link: "http://www.packetframe.com/",
+    {
+    id: "netwise",
+    img: "netwise.svg",
+    name: "Netwise",
+    link: "http://netwise.com/",
     description:
-      "PacketFrame is an open-source project that aims to deliver CDN, DNS, caching and Anycast services for projects. PacketFrame works closely with Fosshost and has shared engineering DevOps and SysOp capabilities. Overall, the Packetframe and Fosshost engineering teams will be crucial to the success of the project.",
+      "Founded in 2009, with a genesis story stretching back further still, Netwise started life as a passion project by two school friends with a love for technology. Fast forward nearly a decade, and we are now one of the UK's leading colocation service providers, with private facilities designed and built entirely in-house, delivering end-user content on a truly global scale.",
   },
 ];
 
