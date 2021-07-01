@@ -3,7 +3,7 @@ title: Fosshost increases node coverage Needham, MA
 date: June 30, 2021 01:00 AM
 summary: Lightwave Networks will host 10u 
 author: thomas
-thumbnail: 
+thumbnail: lightwave.png
 ---
 
 Fosshost is delighted to announce that we have committed to a three-year term with Lightwave Networks, Inc for 10u of colocation at their Needham location, a Digital Realty facility. 
