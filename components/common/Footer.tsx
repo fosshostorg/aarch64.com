@@ -44,7 +44,7 @@ const Footer = () => (
           <span>Github Link</span>
         </a>
         <a
-          href="https://discord.gg/jrv2YNCkgd"
+          href="https://discord.gg/8MfNdGK"
           target="_blank"
           rel="noopener noreferrer"
         >
