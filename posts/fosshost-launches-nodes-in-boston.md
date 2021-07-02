@@ -1,8 +1,8 @@
 ---
 title: Fosshost increases node coverage Needham, MA
+author: eth01
 date: June 30, 2021 01:00 AM
 summary: Lightwave Networks will host 10u 
-author: thomas
 thumbnail: lightwavenetworks.png
 ---
 
