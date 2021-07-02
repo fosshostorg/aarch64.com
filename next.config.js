@@ -27,17 +27,6 @@ module.exports = withPlugins([[optimizedImages, {}]], {
     return headers;
   },
 
-  async rewrites() {
-    const rewrites = [
-      {
-        source: `/robots.txt`,
-        destination: process.env.NEXT_PUBLIC_APP_STAGE === 'production' ? `/robots.txt` : `/`,
-      },
-    ];
-
-    return rewrites;
-  },
-
   poweredByHeader: false,
   reactStrictMode: true,
 
