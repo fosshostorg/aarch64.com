@@ -3,38 +3,44 @@ const optimizedImages = require("next-optimized-images");
 
 module.exports = withPlugins([[optimizedImages, {}]], {
   async headers() {
-    return [
+    const headers = [
       {
-        source: '/(.*)',
+        source: '/(.*?)',
         headers: [
           {
-            key: 'Content-Security-Policy',
-            value: "default-src 'self'; base-uri 'self'; script-src 'self' 'unsafe-eval' plausible.io *.cloudfront.net; style-src 'self' 'unsafe-inline'; img-src 'self' *.cloudfront.net data:",
-          },
-          {
             key: 'X-Content-Type-Options',
-            value: 'nosniff',
+            value: `nosniff`,
           },
-          {
-            key: 'X-XSS-Protection',
-            value: '1; mode=block',
-          },          
-          {
-            key: 'Strict-Transport-Security',
-            value: 'max-age=31536000; includeSubDomains; preload',
-          },
-          {
-            key: 'X-DNS-Prefetch-Control',
-            value: 'on',
-          },          
-          {
-            key: 'Permissions-Policy',
-            value: 'geolocation=(self "https://aarch64.com"), microphone=()',
-          }
-        ]
+        ],
       },
-    ]
+      {
+        source: '/(.*?)',
+        headers: [
+          {
+            key: 'Referrer-Policy',
+            value: `no-referrer-when-downgrade`,
+          },
+        ],
+      },
+    ];
+
+    return headers;
   },
+
+  async rewrites() {
+    const rewrites = [
+      {
+        source: `/robots.txt`,
+        destination: process.env.NEXT_PUBLIC_APP_STAGE === 'production' ? `/robots.txt` : `/`,
+      },
+    ];
+
+    return rewrites;
+  },
+
+  poweredByHeader: false,
+  reactStrictMode: true,
+
   webpack: function (config) {
     config.module.rules.push({
       test: /\.md$/,

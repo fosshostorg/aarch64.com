@@ -45,7 +45,7 @@ const Sponsors: Sponsor[] = [
     id: "netwise",
     img: "netwise.png",
     name: "Netwise",
-    link: "http://netwise.com/",
+    link: "https://www.netwise.co.uk/",
     description:
       "Founded in 2009, with a genesis story stretching back further still, Netwise started life as a passion project by two school friends with a love for technology. Fast forward nearly a decade, and we are now one of the UK's leading colocation service providers, with private facilities designed and built entirely in-house, delivering end-user content on a truly global scale.",
   },
