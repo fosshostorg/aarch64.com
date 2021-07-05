@@ -5,9 +5,17 @@
       <link>https://aarch64.com/blog</link>
       <description>Daily blog, run by experts, on the challenges of planning, coordinating and managing 50 units of Arm-based hardware in multiple, global locations.</description>
       <language>en</language>
-      <lastBuildDate>Wed, 30 Jun 2021 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 05 Jul 2021 02:30:00 GMT</lastBuildDate>
       <atom:link href="https://aarch64.com/rss.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://aarch64.com/post/rocky-linux-aarch64</guid>
+    <title>How to provision Rocky Linux in your AArch64 account</title>
+    <link>https://aarch64.com/post/rocky-linux-aarch64</link>
+    <description>Rocky Linux, one of our tenants, released version 8. 4 of the operating system on the 21st of July</description>
+    <pubDate>Mon, 05 Jul 2021 02:30:00 GMT</pubDate>
+  </item>
+
   <item>
     <guid>https://aarch64.com/post/fosshost-launches-nodes-in-boston</guid>
     <title>Fosshost increases node coverage Needham, MA</title>
