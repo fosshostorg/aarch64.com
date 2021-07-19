@@ -6,11 +6,14 @@ const RecentPosts = ({ posts }) => (
   <section className={styles.recentPosts}>
     <h2>RECENT POSTS</h2>
     <div className={styles.posts}>
-      <RecentPostCard post={posts[0]} />
+      <div className={styles.featured}>
+        <RecentPostCard post={posts[0]} featured={true} />
+      </div>
       {posts[1] && posts[2] && (
         <div className={styles.others}>
-          <RecentPostCard post={posts[1]} />
-          <RecentPostCard post={posts[2]} />
+          <RecentPostCard post={posts[1]} featured={false} />
+          <RecentPostCard post={posts[2]} featured={false} />
+          <RecentPostCard post={posts[3]} featured={false} />
         </div>
       )}
     </div>
