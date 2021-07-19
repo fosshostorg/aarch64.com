@@ -107,7 +107,7 @@
 
 @media screen and (min-width: 768px) {
   .recentPosts {
-    padding: 0rem 7rem 4rem;
+    padding: 0rem 5% 4rem;
   }
 
   .featured .post {
@@ -121,16 +121,22 @@
   }
 
   .thumbnail {
-    min-width: 62%;
+    min-width: 60%;
     border-right: 1px solid rgba(155, 162, 189, 0.05);
+    overflow: hidden;
 
     img {
       height: 100%;
+      width: auto;
     }
   }
 
   .metaContainer {
-    padding: 2.5rem;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    padding: 2rem;
+    padding: max(2rem, 2.5%);
   }
 
   .title {
@@ -142,6 +148,11 @@
     margin: 0 0 1.25rem 0;
     font-size: 0.945rem;
     color: #3e444e;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 7;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   .date {
@@ -150,7 +161,7 @@
     color: #484e5a;
   }
 
-  .meta {
+  .author {
     font-size: 1rem;
   }
 
@@ -180,10 +191,21 @@
 
     .thumbnail {
       max-height: 15rem;
+
+      img {
+        height: auto;
+        width: 100%;
+      }
     }
 
     .metaContainer {
       padding: 1.75rem;
+      padding: min(1.75rem, 10%);
+    }
+
+    .author {
+      font-size: 0.875rem;
+      white-space: normal;
     }
   }
 }
