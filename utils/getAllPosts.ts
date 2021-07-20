@@ -14,8 +14,10 @@ const getAllPosts = (): Post[] => {
         thumbnail: frontmatter.data.thumbnail,
         description: frontmatter.data.description
           ? frontmatter.data.description
+          : frontmatter.data.summary
+          ? frontmatter.data.summary
           : frontmatter.content
-              .split(/\.(\s)(\n)+/)
+              .split(/\.(\s|\n)+/)
               .slice(0, 2)
               .map((sentence) => sentence.trim())
               .join(". "),
