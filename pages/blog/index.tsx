@@ -6,8 +6,6 @@ import paginatedResults from "utils/paginatedResults";
 import PostCard from "@/components/BlogPage/PostCard";
 import Pagination from "@/components/BlogPage/Pagination";
 import getAllPosts from "utils/getAllPosts";
-import generateRSS from "utils/generateRSS";
-import fs from "fs";
 
 const Blog = ({ results }) => (
   <>
@@ -36,10 +34,6 @@ const Blog = ({ results }) => (
 
 export const getStaticProps = async () => {
   const page = 1;
-  const posts = getAllPosts();
-  const rss = generateRSS(posts);
-
-  fs.writeFileSync("./public/feed.xml", rss);
 
   let results = paginatedResults(page);
 
