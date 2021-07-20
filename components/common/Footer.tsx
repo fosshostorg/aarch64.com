@@ -3,6 +3,7 @@ import Link from "next/link";
 import GitHubIcon from "../icons/Github";
 import RSSIcon from "../icons/RSS";
 import TwitterIcon from "../icons/Twitter";
+import DiscordIcon from "../icons/Discord";
 
 const Footer = () => (
   <footer className={styles.footer}>
@@ -41,6 +42,14 @@ const Footer = () => (
         >
           <GitHubIcon />
           <span>Github Link</span>
+        </a>
+        <a
+          href="https://discord.gg/8MfNdGK"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <DiscordIcon />
+          <span>Discord Link</span>
         </a>
       </div>
     </div>

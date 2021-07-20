@@ -8,7 +8,7 @@ const Header = (props) => (
       <Link href="/">
         <a>
           <object data="/logo.svg" type="image/svg+xml">
-            <img src="/logo.png" alt="Arm-64.com Logo" />
+            <img src="/logo.png" alt="aarch64.com Logo" />
           </object>
         </a>
       </Link>

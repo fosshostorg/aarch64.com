@@ -68,7 +68,7 @@ const About = () => (
         >
           WebNX
         </a>
-        , and{" "}
+        ,{" "}
         <a
           href="https://www.packetframe.com/"
           target="_blank"
@@ -76,6 +76,15 @@ const About = () => (
         >
           PacketFrame
         </a>
+        , and{" "}
+        <a
+          href="https://www.netwise.co.uk/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Netwise
+        </a>
+
         . Further details of sponsorships can be found on our{" "}
         <Link href="/sponsors">sponsorship page</Link>.
       </p>
