@@ -1,7 +1,7 @@
 ---
 title: Announcing support for Rocky Linux 8.3 Release Candidate
 author: nate
-date: May 1, 2020 04:00 PM
+date: May 1, 2021 04:00 PM
 thumbnail: rocky-vm.png
 ---
 
