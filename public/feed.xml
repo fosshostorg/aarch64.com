@@ -5,15 +5,23 @@
       <link>https://aarch64.com/blog</link>
       <description>Daily blog, run by experts, on the challenges of planning, coordinating and managing 50 units of Arm-based hardware in multiple, global locations.</description>
       <language>en</language>
-      <lastBuildDate>Sun, 04 Jul 2021 22:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 12 Aug 2021 18:00:00 GMT</lastBuildDate>
       <atom:link href="https://aarch64.com/rss.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://aarch64.com/post/aarch64-on-twitter</guid>
+    <title>AArch64 is now on Twitter</title>
+    <link>https://aarch64.com/post/aarch64-on-twitter</link>
+    <description>AArch64 now has a dedicated Twitter account, @aarch64org</description>
+    <pubDate>Thu, 12 Aug 2021 18:00:00 GMT</pubDate>
+  </item>
+
   <item>
     <guid>https://aarch64.com/post/rocky-linux-aarch64</guid>
     <title>How to provision Rocky Linux in your AArch64 account</title>
     <link>https://aarch64.com/post/rocky-linux-aarch64</link>
     <description>Learn how to provision a VM with Rocky Linux on your AArch64 account</description>
-    <pubDate>Sun, 04 Jul 2021 22:00:00 GMT</pubDate>
+    <pubDate>Mon, 05 Jul 2021 02:30:00 GMT</pubDate>
   </item>
 
   <item>
@@ -21,7 +29,7 @@
     <title>Fosshost increases node coverage Needham, MA</title>
     <link>https://aarch64.com/post/fosshost-launches-nodes-in-boston</link>
     <description>Lightwave Networks will host 10u</description>
-    <pubDate>Tue, 29 Jun 2021 19:30:00 GMT</pubDate>
+    <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -29,7 +37,7 @@
     <title>Eight more Arm-based units going live very soon</title>
     <link>https://aarch64.com/post/eight-more-arm-based-units-going-live-very-soon</link>
     <description>We are so happy to announce we will have eight units of our Arm-based hardware collocated with [Netwise](https://www.netwise.co.uk/) in London. </description>
-    <pubDate>Fri, 25 Jun 2021 15:30:00 GMT</pubDate>
+    <pubDate>Fri, 25 Jun 2021 20:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -37,7 +45,7 @@
     <title>Is ARM the architecture of the future?</title>
     <link>https://aarch64.com/post/is-arm-architecture-the-future</link>
     <description>Arm-based hardware has had a big increase of units shipped to manufacturers in the last few years.</description>
-    <pubDate>Mon, 21 Jun 2021 12:30:00 GMT</pubDate>
+    <pubDate>Mon, 21 Jun 2021 17:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -45,7 +53,7 @@
     <title>AArch64 budgeting system for fair resource usage</title>
     <link>https://aarch64.com/post/aarch64-budgeting-system-for-fair-resource-usage</link>
     <description>We have implemented a budgeting system, so our tenants can have fair resource usage on the platform</description>
-    <pubDate>Thu, 03 Jun 2021 20:30:00 GMT</pubDate>
+    <pubDate>Fri, 04 Jun 2021 01:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -53,7 +61,17 @@
     <title>AArch64 is now in production, using its own ASN</title>
     <link>https://aarch64.com/post/aarch64-in-production</link>
     <description>We are extremely excited to announce that our AArch64 platform has entered production! To everyone who helped develop and test the platform, you have our deepest respecy and acknowledgment. </description>
-    <pubDate>Wed, 26 May 2021 19:30:00 GMT</pubDate>
+    <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>https://aarch64.com/post/support-for-rocky-linux-release-candidate</guid>
+    <title>Announcing support for Rocky Linux 8.3 Release Candidate</title>
+    <link>https://aarch64.com/post/support-for-rocky-linux-release-candidate</link>
+    <description>#### Announcing support for Rocky Linux 8.3 Release Candidate
+
+> Rocky Linux is a community enterprise operating system designed to be 100% bug-for-bug compatible with America's top enterprise Linux distribution now that its downstream partner has shifted direction. </description>
+    <pubDate>Sat, 01 May 2021 15:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -61,7 +79,7 @@
     <title>Changes to our network stack</title>
     <link>https://aarch64.com/post/network-changes-overview</link>
     <description>On December 29, 2020, I [wrote](https://aarch64.com/post/infrastructure-overview) about our unconventional network setup with a large layer 2 mesh. </description>
-    <pubDate>Wed, 28 Apr 2021 15:30:00 GMT</pubDate>
+    <pubDate>Wed, 28 Apr 2021 20:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -69,7 +87,7 @@
     <title>5 Arm-based units live at the CustodianDC data center</title>
     <link>https://aarch64.com/post/5-units-custodiandc-ready</link>
     <description>Our team just finished setting up 5 Arm-based units at the CustodianDC data center</description>
-    <pubDate>Sun, 18 Apr 2021 19:30:00 GMT</pubDate>
+    <pubDate>Mon, 19 Apr 2021 00:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -77,7 +95,7 @@
     <title>Featured Sponsor - Ampere Computing</title>
     <link>https://aarch64.com/post/featured-post-ampere-computing</link>
     <description>Welcome to our fifth post in a series of blog posts about our incredible sponsors</description>
-    <pubDate>Sat, 03 Apr 2021 12:30:00 GMT</pubDate>
+    <pubDate>Sat, 03 Apr 2021 17:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -85,7 +103,7 @@
     <title>Photos from the first day at the CustodianDC data center</title>
     <link>https://aarch64.com/post/photos-first-day-racking-custodiandc-kent</link>
     <description>We share with you some photos taken during the first day of racking at the CustodianDC data center in Kent</description>
-    <pubDate>Sat, 03 Apr 2021 10:30:00 GMT</pubDate>
+    <pubDate>Sat, 03 Apr 2021 15:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -93,7 +111,7 @@
     <title>Unboxing and Racking Days</title>
     <link>https://aarch64.com/post/unboxing-day</link>
     <description>Yesterday was the day to get the 30 Arm-based units out of their packages and getting them ready for the data center</description>
-    <pubDate>Wed, 31 Mar 2021 16:00:00 GMT</pubDate>
+    <pubDate>Wed, 31 Mar 2021 20:30:00 GMT</pubDate>
   </item>
 
   <item>
@@ -101,7 +119,7 @@
     <title>A sneak peek at AArch64's dashboard</title>
     <link>https://aarch64.com/post/sneak-peek</link>
     <description>Here is a sneak peek at the dashboard used by approved projects</description>
-    <pubDate>Tue, 30 Mar 2021 09:30:00 GMT</pubDate>
+    <pubDate>Tue, 30 Mar 2021 14:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -109,7 +127,7 @@
     <title>The first Arm-based units are almost ready</title>
     <link>https://aarch64.com/post/first-units-almost-ready</link>
     <description>The first batch of Arm-based units are almost ready to go live</description>
-    <pubDate>Wed, 24 Mar 2021 17:30:00 GMT</pubDate>
+    <pubDate>Wed, 24 Mar 2021 23:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -117,7 +135,7 @@
     <title>Deployment ETA</title>
     <link>https://aarch64.com/post/deployment-eta</link>
     <description>We expect to have the hardware ready in about 3 weeks</description>
-    <pubDate>Thu, 18 Mar 2021 16:30:00 GMT</pubDate>
+    <pubDate>Thu, 18 Mar 2021 22:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -125,7 +143,7 @@
     <title>We're one step closer to get the Arm-based units deployed</title>
     <link>https://aarch64.com/post/one-step-closer-to-deploying-arm-units</link>
     <description>Ampere Computing just shipped the Arm-based units</description>
-    <pubDate>Wed, 17 Mar 2021 19:00:00 GMT</pubDate>
+    <pubDate>Thu, 18 Mar 2021 00:30:00 GMT</pubDate>
   </item>
 
   <item>
@@ -133,7 +151,7 @@
     <title>Featured Sponsor - Packetframe</title>
     <link>https://aarch64.com/post/featured-sponsor-packetframe</link>
     <description>Welcome to our fifth post in a series of blog posts about our amazing sponsors</description>
-    <pubDate>Mon, 15 Mar 2021 19:30:00 GMT</pubDate>
+    <pubDate>Tue, 16 Mar 2021 01:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -141,7 +159,7 @@
     <title>Some Arm-based units will go live very soon</title>
     <link>https://aarch64.com/post/some-units-going-live</link>
     <description>Some units are expected to go live in the next 4 weeks</description>
-    <pubDate>Tue, 09 Mar 2021 18:00:00 GMT</pubDate>
+    <pubDate>Tue, 09 Mar 2021 23:30:00 GMT</pubDate>
   </item>
 
   <item>
@@ -149,7 +167,7 @@
     <title>Fosshost invited to The Business of Cloud Native podcast</title>
     <link>https://aarch64.com/post/fosshost-invited-to-podcast</link>
     <description>Our founder, Thomas Markey, was invited to Emily Omier's podcast, where he talks about subjects related to Fosshost and the Free Software community</description>
-    <pubDate>Fri, 12 Feb 2021 10:00:00 GMT</pubDate>
+    <pubDate>Fri, 12 Feb 2021 15:30:00 GMT</pubDate>
   </item>
 
   <item>
@@ -157,7 +175,7 @@
     <title>Our name is changing!</title>
     <link>https://aarch64.com/post/we-are-changing-to-aarch64-com</link>
     <description>We have some exicting news!</description>
-    <pubDate>Thu, 04 Feb 2021 17:30:00 GMT</pubDate>
+    <pubDate>Thu, 04 Feb 2021 23:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -165,7 +183,7 @@
     <title>Featured Sponsor - Equinix Metal</title>
     <link>https://aarch64.com/post/featured-sponsor-equinix-metal</link>
     <description>Welcome to the fourth in a series of blog posts about our incredible sponsors</description>
-    <pubDate>Tue, 02 Feb 2021 03:30:00 GMT</pubDate>
+    <pubDate>Tue, 02 Feb 2021 09:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -173,7 +191,7 @@
     <title>We'll be back in a moment</title>
     <link>https://aarch64.com/post/we-will-be-back-in-a-moment</link>
     <description>Our blog posts will be back very soon</description>
-    <pubDate>Sat, 23 Jan 2021 17:30:00 GMT</pubDate>
+    <pubDate>Sat, 23 Jan 2021 23:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -181,7 +199,7 @@
     <title>Featured Sponsor - WebNX</title>
     <link>https://aarch64.com/post/featured-post-webnx</link>
     <description>Welcome to our third post in a series of blog posts about our amazing sponsors</description>
-    <pubDate>Sun, 10 Jan 2021 12:30:00 GMT</pubDate>
+    <pubDate>Sun, 10 Jan 2021 18:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -189,7 +207,7 @@
     <title>Beginning of talks with Arm Limited</title>
     <link>https://aarch64.com/post/talking-to-arm-limited</link>
     <description>In a few days, we'll be discussing a closer relationship with Arm Limited</description>
-    <pubDate>Sat, 09 Jan 2021 15:30:00 GMT</pubDate>
+    <pubDate>Sat, 09 Jan 2021 21:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -197,7 +215,7 @@
     <title>Thomas Markey gives interview with IMakeFOSS</title>
     <link>https://aarch64.com/post/thomas-interviewed-by-imakefoss</link>
     <description>Thomas Markey, CEO and Founder of Fosshost gives interview to Monica Ayhens-Madon</description>
-    <pubDate>Fri, 08 Jan 2021 14:30:00 GMT</pubDate>
+    <pubDate>Fri, 08 Jan 2021 20:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -205,7 +223,7 @@
     <title>Featured Sponsor - CustodianDC</title>
     <link>https://aarch64.com/post/featured-sponsor-custodiandc</link>
     <description>Welcome to our second post in a series of blog posts about our incredible sponsors</description>
-    <pubDate>Mon, 04 Jan 2021 15:30:00 GMT</pubDate>
+    <pubDate>Mon, 04 Jan 2021 21:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -213,7 +231,7 @@
     <title>Comments are live on Arm-64 blog posts</title>
     <link>https://aarch64.com/post/blog-post-comments</link>
     <description>As we continue to write about our journey into the AArch64 world, we decided we wanted an easier way to get feedback from our readers. </description>
-    <pubDate>Sat, 02 Jan 2021 16:30:00 GMT</pubDate>
+    <pubDate>Sat, 02 Jan 2021 22:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -221,7 +239,7 @@
     <title>Featured Sponsor - HiveDC</title>
     <link>https://aarch64.com/post/featured-sponsor-hivedc</link>
     <description>Welcome to the first in a series of blog posts about our incredible sponsors</description>
-    <pubDate>Fri, 01 Jan 2021 11:15:00 GMT</pubDate>
+    <pubDate>Fri, 01 Jan 2021 16:45:00 GMT</pubDate>
   </item>
 
   <item>
@@ -229,7 +247,7 @@
     <title>Infrastructure Overview</title>
     <link>https://aarch64.com/post/infrastructure-overview</link>
     <description>The network architecture planned for the Fosshost AArch64 deployment is a little different from a conventional "cloud" virtualization system: we have very little layer 3 infrastructure. </description>
-    <pubDate>Tue, 29 Dec 2020 09:30:00 GMT</pubDate>
+    <pubDate>Tue, 29 Dec 2020 15:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -237,7 +255,7 @@
     <title>RSS feeds are now live</title>
     <link>https://aarch64.com/post/rss-feed</link>
     <description>#### AArch64.com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost.org) project, intended to give you a real insight into the world of Arm computing. </description>
-    <pubDate>Sat, 26 Dec 2020 15:30:00 GMT</pubDate>
+    <pubDate>Sat, 26 Dec 2020 21:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -245,7 +263,7 @@
     <title>Overview of donated hardware</title>
     <link>https://aarch64.com/post/overview-of-donated-hardware</link>
     <description>#### AArch64.com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost.org) project, intended to give you a real insight into the world of Arm computing. </description>
-    <pubDate>Thu, 24 Dec 2020 05:30:00 GMT</pubDate>
+    <pubDate>Thu, 24 Dec 2020 11:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -253,7 +271,7 @@
     <title>Now accepting pre-applications for AArch64-as-a-service</title>
     <link>https://aarch64.com/post/accepting-preapplications</link>
     <description>#### AArch64.com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost.org) project, intended to give you a real insight into the world of Arm computing. </description>
-    <pubDate>Wed, 23 Dec 2020 13:40:00 GMT</pubDate>
+    <pubDate>Wed, 23 Dec 2020 19:10:00 GMT</pubDate>
   </item>
 
   <item>
@@ -261,17 +279,7 @@
     <title>Welcome to AArch64.com</title>
     <link>https://aarch64.com/post/welcome-to-aarch-64</link>
     <description>#### AArch64.com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost.org) project, intended to give you a real insight into the world of Arm computing. </description>
-    <pubDate>Sun, 20 Dec 2020 13:48:00 GMT</pubDate>
-  </item>
-
-  <item>
-    <guid>https://aarch64.com/post/support-for-rocky-linux-release-candidate</guid>
-    <title>Announcing support for Rocky Linux 8.3 Release Candidate</title>
-    <link>https://aarch64.com/post/support-for-rocky-linux-release-candidate</link>
-    <description>#### Announcing support for Rocky Linux 8. 3 Release Candidate
-
-> Rocky Linux is a community enterprise operating system designed to be 100% bug-for-bug compatible with America's top enterprise Linux distribution now that its downstream partner has shifted direction</description>
-    <pubDate>Fri, 01 May 2020 10:30:00 GMT</pubDate>
+    <pubDate>Sun, 20 Dec 2020 19:18:00 GMT</pubDate>
   </item>
 
     </channel>
