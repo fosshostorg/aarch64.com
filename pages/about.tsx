@@ -68,7 +68,7 @@ const About = () => (
         >
           WebNX
         </a>
-        , {" "}
+        ,{" "}
         <a
           href="https://www.packetframe.com/"
           target="_blank"
