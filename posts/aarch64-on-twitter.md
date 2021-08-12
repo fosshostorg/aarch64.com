@@ -6,7 +6,7 @@ author: bruno
 thumbnail: twitter.png
 ---
 
-AArch64 has been using [Fosshost's Twitter account]((https://twitter.com/fosshostorg)) to keep the community updated on the news about the platform. However, due to the fast growth of our Arm-based platform, we created a dedicated account for it, [@aarch64org](https://twitter.com/aarch64org), on this social network.
+AArch64 has been using [Fosshost's Twitter account](https://twitter.com/fosshostorg) to keep the community updated on the news about the platform. However, due to the fast growth of our Arm-based platform, we created a dedicated account for it, [@aarch64org](https://twitter.com/aarch64org), on this social network.
 
 If you're not following us yet, don't miss the opportunity to do it. We'll keep you updated about relevant news for the platform, answer any questions you have or forward you to someone from the team who can answer them, and even highlight interesting Arm-based projects. It will also be another tool for us to interact with the marvellous FOSS community.
 
