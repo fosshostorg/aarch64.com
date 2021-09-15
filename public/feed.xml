@@ -275,19 +275,35 @@
   </item>
 
   <item>
-    <guid>https://aarch64.com/post/overview-of-donated-hardware</guid>
-    <title>Overview of donated hardware</title>
-    <link>https://aarch64.com/post/overview-of-donated-hardware</link>
-    <description>#### AArch64.com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost.org) project, intended to give you a real insight into the world of Arm computing. </description>
-    <pubDate>Thu, 24 Dec 2020 11:00:00 GMT</pubDate>
-  </item>
-
-  <item>
     <guid>https://aarch64.com/post/accepting-preapplications</guid>
     <title>Now accepting pre-applications for AArch64-as-a-service</title>
     <link>https://aarch64.com/post/accepting-preapplications</link>
     <description>#### AArch64.com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost.org) project, intended to give you a real insight into the world of Arm computing. </description>
     <pubDate>Wed, 23 Dec 2020 19:10:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>https://aarch64.com/post/jitesoft-how-we-use-aarch64</guid>
+    <title>undefined</title>
+    <link>https://aarch64.com/post/jitesoft-how-we-use-aarch64</link>
+    <description>---
+title: How we use AArch64: Jitesoft
+date: September 15, 2021 04:00 PM
+summary: "How Jitesoft runs docker builders on IPv6 AArch64 machines."
+author: bruno
+thumbnail: how-we-use-aarch64/jitesoft.png
+---
+
+##### We invited our tenants to write about how they use our platform, for a blog post series we named "How we use AArch64". </description>
+    <pubDate>Invalid Date</pubDate>
+  </item>
+
+  <item>
+    <guid>https://aarch64.com/post/overview-of-donated-hardware</guid>
+    <title>Overview of donated hardware</title>
+    <link>https://aarch64.com/post/overview-of-donated-hardware</link>
+    <description>#### AArch64.com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost.org) project, intended to give you a real insight into the world of Arm computing. </description>
+    <pubDate>Thu, 24 Dec 2020 11:00:00 GMT</pubDate>
   </item>
 
   <item>
