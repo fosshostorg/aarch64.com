@@ -1,7 +1,7 @@
 ---
 title: How we use AArch64 - Jitesoft
 date: September 15, 2021 04:30 PM
-summary: "How Jitesoft runs docker builders on IPv6 AArch64 machines."
+summary: How Jitesoft runs docker builders on IPv6 AArch64 machines
 author: bruno
 thumbnail: how-we-use-aarch64/pipeline-tess.webp
 ---
