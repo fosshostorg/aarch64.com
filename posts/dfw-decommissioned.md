@@ -3,6 +3,7 @@ title: DFW PoP will be decommissioned
 date: January 19, 2022 02:30 PM
 summary: On January 31, our DFW PoP will be decommissioned
 author: bruno
+thumbnail: lars-kienle-IlxX7xnbRF8-unsplash.jpg
 ---
 
 On the first days of December, we began decommissioning our DFW PoP. We had several requests from our tenants for a more diverse geographical presence, and we listened.
