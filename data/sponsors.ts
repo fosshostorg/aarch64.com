@@ -41,14 +41,6 @@ const Sponsors: Sponsor[] = [
     description:
       "As part of Equinix — the world’s #DigitalInfrastructure company — Equinix Metal provides automated and interconnected bare-metal infrastructure. Formerly Packet, now Equinix Metal™. Ed Vielmetti also runs the Worksonarm.com Project, who we will be working closely with.",
   },
-  {
-    id: "netwise",
-    img: "netwise.png",
-    name: "Netwise",
-    link: "http://netwise.com/",
-    description:
-      "Founded in 2009, with a genesis story stretching back further still, Netwise started life as a passion project by two school friends with a love for technology. Fast forward nearly a decade, and we are now one of the UK's leading colocation service providers, with private facilities designed and built entirely in-house, delivering end-user content on a truly global scale.",
-  },
 ];
 
 export default Sponsors;
