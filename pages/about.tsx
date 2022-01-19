@@ -62,14 +62,6 @@ const About = () => (
         </a>
         ,{" "}
         <a
-          href="https://www.webnx.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          WebNX
-        </a>
-        ,{" "}
-        <a
           href="https://www.packetframe.com/"
           target="_blank"
           rel="noopener noreferrer"
