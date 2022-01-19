@@ -33,14 +33,6 @@ const Sponsors: Sponsor[] = [
     description:
       "At WebNX, we pride ourselves on offering Enterprise Internet Infrastructure Solutions at affordable prices. We combine top quality components from the top manufacturers with our 100% self-operated data centers, and our Route Optimized Networks, to bring you IT values unlike anyone else. We offer Dedicated Servers and Colocation Options. With over 15 years industry experience, your enterprise is in good hands with WebNX Internet Services.",
   },
-  {
-    id: "equinix",
-    img: "equinix.svg",
-    name: "Equinix Metal",
-    link: "http://metal.equinix.com/",
-    description:
-      "As part of Equinix — the world’s #DigitalInfrastructure company — Equinix Metal provides automated and interconnected bare-metal infrastructure. Formerly Packet, now Equinix Metal™. Ed Vielmetti also runs the Worksonarm.com Project, who we will be working closely with.",
-  },
 ];
 
 export default Sponsors;

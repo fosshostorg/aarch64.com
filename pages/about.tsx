@@ -38,14 +38,6 @@ const About = () => (
         </a>
         ,{" "}
         <a
-          href="https://metal.equinix.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Equinix Metal
-        </a>
-        ,{" "}
-        <a
           href="https://www.custodiandc.com/"
           target="_blank"
           rel="noopener noreferrer"
