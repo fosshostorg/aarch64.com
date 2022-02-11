@@ -5,9 +5,33 @@
       <link>https://aarch64.com/blog</link>
       <description>Daily blog, run by experts, on the challenges of planning, coordinating and managing 50 units of Arm-based hardware in multiple, global locations.</description>
       <language>en</language>
-      <lastBuildDate>Mon, 30 Aug 2021 14:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 11 Feb 2022 11:30:00 GMT</lastBuildDate>
       <atom:link href="https://aarch64.com/rss.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://aarch64.com/post/five-more-units-hosted-by-webnx</guid>
+    <title>We have five more units live</title>
+    <link>https://aarch64.com/post/five-more-units-hosted-by-webnx</link>
+    <description>Five more AArch64 units are live and hosted at WebNX's Ogden DC</description>
+    <pubDate>Fri, 11 Feb 2022 11:30:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>https://aarch64.com/post/dfw-decommissioned</guid>
+    <title>DFW PoP will be decommissioned</title>
+    <link>https://aarch64.com/post/dfw-decommissioned</link>
+    <description>On January 31, our DFW PoP will be decommissioned</description>
+    <pubDate>Wed, 19 Jan 2022 14:30:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>https://aarch64.com/post/jitesoft-how-we-use-aarch64</guid>
+    <title>How we use AArch64 - Jitesoft</title>
+    <link>https://aarch64.com/post/jitesoft-how-we-use-aarch64</link>
+    <description>How Jitesoft runs docker builders on IPv6 AArch64 machines</description>
+    <pubDate>Wed, 15 Sep 2021 15:30:00 GMT</pubDate>
+  </item>
+
   <item>
     <guid>https://aarch64.com/post/aarch64-performance-comparison</guid>
     <title>AArch64 benchmark results</title>
@@ -275,35 +299,19 @@
   </item>
 
   <item>
-    <guid>https://aarch64.com/post/accepting-preapplications</guid>
-    <title>Now accepting pre-applications for AArch64-as-a-service</title>
-    <link>https://aarch64.com/post/accepting-preapplications</link>
-    <description>#### AArch64.com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost.org) project, intended to give you a real insight into the world of Arm computing. </description>
-    <pubDate>Wed, 23 Dec 2020 19:10:00 GMT</pubDate>
-  </item>
-
-  <item>
-    <guid>https://aarch64.com/post/jitesoft-how-we-use-aarch64</guid>
-    <title>undefined</title>
-    <link>https://aarch64.com/post/jitesoft-how-we-use-aarch64</link>
-    <description>---
-title: How we use AArch64: Jitesoft
-date: September 15, 2021 04:00 PM
-summary: "How Jitesoft runs docker builders on IPv6 AArch64 machines."
-author: bruno
-thumbnail: how-we-use-aarch64/jitesoft.png
----
-
-##### We invited our tenants to write about how they use our platform, for a blog post series we named "How we use AArch64". </description>
-    <pubDate>Invalid Date</pubDate>
-  </item>
-
-  <item>
     <guid>https://aarch64.com/post/overview-of-donated-hardware</guid>
     <title>Overview of donated hardware</title>
     <link>https://aarch64.com/post/overview-of-donated-hardware</link>
     <description>#### AArch64.com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost.org) project, intended to give you a real insight into the world of Arm computing. </description>
     <pubDate>Thu, 24 Dec 2020 11:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>https://aarch64.com/post/accepting-preapplications</guid>
+    <title>Now accepting pre-applications for AArch64-as-a-service</title>
+    <link>https://aarch64.com/post/accepting-preapplications</link>
+    <description>#### AArch64.com is a daily blog, run by the technical folks from the [Fosshost](https://fosshost.org) project, intended to give you a real insight into the world of Arm computing. </description>
+    <pubDate>Wed, 23 Dec 2020 19:10:00 GMT</pubDate>
   </item>
 
   <item>

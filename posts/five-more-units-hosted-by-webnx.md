@@ -3,7 +3,7 @@ title: We have five more units live
 author: bruno
 summary: Five more AArch64 units are live and hosted at WebNX's Ogden DC
 date: February 11, 2022 11:30 AM
-thumbnail:
+thumbnail: network-data-center.jpg
 ---
 
 We are thrilled to announce we have five more AArch64 #units available to host projects from the FOSS community. This is only possible because the wonderful team at [WebNX](http://www.webnx.com/) is sponsoring the hardware colocation at their Ogden, Utah data centre. WebNX also kindly supports us with BGP connectivity.
