@@ -13,7 +13,7 @@ With the new five units live and ready, our number of 1U Lenovo ThinkSystem HR33
 The hardware specifications for each unit are:
 - CPU: 1x Ampere eMAG CPU, 32x ARMv8 64-bit CPU cores at 3.3 GHz with Turbo
 - RAM: 128GB, 2400MHz DDR4 RDIMM
-- Disk Space: 480GB SSD
+- Disk Space: 480GB SSD 
   
 Our team would love to provide more disk space for each unit. Sadly, we currently have some constraints regarding SSDs. If you're a company or an individual and want to help us have more disk space for the FOSS community projects, please refer to our [Contact Us](https://aarch64.com/contact) page to reach us.
 
