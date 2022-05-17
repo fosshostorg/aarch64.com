@@ -33,6 +33,14 @@ const Sponsors: Sponsor[] = [
     description:
       "At WebNX, we pride ourselves on offering Enterprise Internet Infrastructure Solutions at affordable prices. We combine top quality components from the top manufacturers with our 100% self-operated data centers, and our Route Optimized Networks, to bring you IT values unlike anyone else. We offer Dedicated Servers and Colocation Options. With over 15 years industry experience, your enterprise is in good hands with WebNX Internet Services.",
   },
+  {
+  id: "ans",
+  img: "ans-logo.svg",
+  name: "ANS Group",
+  link: "https://www.ans.co.uk/",
+  description:
+  "Delivering and executing digital transformation is extremely complex. Even defining digital transformation can be difficult when it means different things to every organisation. And even when you’ve mapped our your digital journey, you would typically have to engage with multiple partners to acquire services, adding yet more complexity, time and cost. At ANS, we’ve removed all of this complexity by enabling you to unlock the power of 6 technical capabilities under one programme of work without the stress of having to rely on multiple vendors.",
+  },
 ];
 
 export default Sponsors;
